@@ -1,0 +1,191 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Message>
+  <KO>
+    <PassportReadError></PassportReadError>
+  </KO>
+  <EN>
+    <PassportReadError></PassportReadError>
+  </EN>
+  <JA>
+  
+
+	
+
+	
+    <!--Control Data Check -->
+    <!--passport-->
+
+
+	
+	<!--매장명을 입력하세요.-->
+    <TXT_SHOP_NAME>輸出物品販売場を最初に選択してください。</TXT_SHOP_NAME>
+    <TXT_RCT_NO>영수증번호를 입력하세요.</TXT_RCT_NO>
+	<!--여권이름을 입력하세요.-->
+    <TXT_PASSPORT_NAME>パスポートの名前を入力してください。</TXT_PASSPORT_NAME>
+	<!--여권번호를 입력하세요.-->
+    <TXT_PASSPORT_NO>パスポート番号を入力してください。</TXT_PASSPORT_NO>
+    <TXT_PASSPORT_NAT>국적을 입력하세요.</TXT_PASSPORT_NAT>
+    <TXT_PASSPORT_SEX>성별을 입력하세요.</TXT_PASSPORT_SEX>
+    <TXT_PASSPORT_BIRTH>생년월일을 입력하세요.</TXT_PASSPORT_BIRTH>
+    <TXT_PASSPORT_EXP>여권만기일을 입력하세요.</TXT_PASSPORT_EXP>
+    <COM_PASSPORT_TYPE>여권 종류를 선택하세요.</COM_PASSPORT_TYPE>
+    <COM_PASSPORT_NAT>국적을 선택하세요.</COM_PASSPORT_NAT>
+    <COM_PASSPORT_SEX>성별을 선택하세요.</COM_PASSPORT_SEX>
+    <TXT_DATE_LAND>입국일을 입력하세요.</TXT_DATE_LAND>
+    <COM_PASSPORT_RES>체재유형을 선택하세요.</COM_PASSPORT_RES>
+    <GRD_ITEMS>판매 물품을 입력하세요.</GRD_ITEMS>
+
+    <COM_MAIN_CAT>대분류를 선택하세요.</COM_MAIN_CAT>
+    <COM_MID_CAT>중분류를 선택하세요.</COM_MID_CAT>
+    <COM_ITEM_NAME>상품을 선택하세요.</COM_ITEM_NAME>
+    <TXT_QTY>수량을 입력하세요.</TXT_QTY>
+    <TXT_ITEM_AMT>물품판매가격을 입력하세요.</TXT_ITEM_AMT>
+    <TXT_BUY_AMT>총판매액을 입력하세요.</TXT_BUY_AMT>
+    <TXT_REFUND_AMT>환급액을 입력하세요.</TXT_REFUND_AMT>
+    <TXT_TAX_AMT>세금을 입력하세요.</TXT_TAX_AMT>
+    <COM_TAX_TYPE>세금종류를 선택하세요.</COM_TAX_TYPE>
+    
+    <COM_SLIP_TYPE>전표종류를 선택해 주세요.</COM_SLIP_TYPE>
+    
+	<!--터미널 번호를 입력하세요.-->
+	<TXT_TML_ID>端子番号（5桁）を入力してください。</TXT_TML_ID>
+	<!--프린터를 선택하세요.-->
+	<COM_PRINTER>プリンタを選択してください。</COM_PRINTER>
+	
+    <!--Message -->
+    
+	<!--구매물품정보가 없습니다.-->
+    <NO_ITEM>購入物品情報データがありません。</NO_ITEM>
+	<!--조회된 데이터가 없습니다.-->
+	<NO_SERACH_DATA>照会された伝票がありません。</NO_SERACH_DATA>
+	
+	<!--전표를 발행 하시겠습니까?-->
+    <REFUND_CONFIRM>伝票を発行しますか？</REFUND_CONFIRM>
+    
+	<!--환경설정이 저장되었습니다.-->
+    <CONFIG_SAVE_SUCCESS>環境設定が保存されました。</CONFIG_SAVE_SUCCESS>
+    <CONFIG_SAVE_FAIL></CONFIG_SAVE_FAIL>
+    
+	<!--環境設定をしてください。-->
+    <SYSTEM_INIT>環境設定をしてください。</SYSTEM_INIT>
+	<!--여권스캐너 설정을 하시기 바랍니다.-->
+    <PASSPORT_NOTHING>パスポートスキャナの設定をしてください。</PASSPORT_NOTHING>
+	<!--프린터 설정을 하시기 바랍니다.-->
+    <PRINTER_NOTHING>プリンタの設定をしてください。</PRINTER_NOTHING>
+	<!--여권스캐너에 여권이 정상적으로 삽입되어 있는지 확인하세요.-->
+    <PASSPORT_REMOVE>パスポートスキャナにパスポートが正常に挿入されていることを確認します。</PASSPORT_REMOVE>
+	<!--여권스캐너 연결을 확인하세요.-->
+    <PASSPORT_ERROR>パスポートスキャナの接続を確認してください。</PASSPORT_ERROR>
+	<!--영수증 번호가 없습니다. 계속진행하시겠습니까?-->
+    <RCT_CONFIRM>レシート番号が未入力です。取引を続行しますか。</RCT_CONFIRM>
+	
+	<LOGIN_BEFORE>ログイン前。</LOGIN_BEFORE>
+	<LOGIN_ID>IDの確認中。</LOGIN_ID>
+	<LOGIN_SHOP>加盟店情報の読み込み中。</LOGIN_SHOP>
+	<LOGIN_ITEM>商品情報の読み込み中。</LOGIN_ITEM>
+	<LOGIN_CODE>国家情報ロード中。</LOGIN_CODE>
+	<LOGIN_CUSTOMS>税関情報ロード中。</LOGIN_CUSTOMS>
+	<LOGIN_ADS>広告情報の読み込み中。</LOGIN_ADS>
+	<LOGIN_END>ログイン仕上げ中。</LOGIN_END>
+	
+	<!--초기화 오류. 프로그램을 재 시작해 주시기 바랍니다.-->
+	<ERROR_INIT>初期化エラーです。プログラムを再起動してください。</ERROR_INIT>
+	<!--전표가 정상적으로 출력되었는지 확인하세요.-->
+	<SLIP_CONFIRM>伝票が正常に出力されたことを確認してください。</SLIP_CONFIRM>
+	<REFUND_COMPLETE>還付処理されます</REFUND_COMPLETE>
+	<REFUND_CASH>返金額</REFUND_CASH>
+	<REFUND_CARD>※注意※\n本取引は、UPI取引です。\nお客様への返金は、絶対に行わないでください！\n還金額</REFUND_CARD>
+	<REFUND_QQ>※注意※\n本取引は、QQ取引です。\nお客様への返金は、絶対に行わないでください！\n還金額</REFUND_QQ>	
+	<!--매장정보가 없습니다. 다른 사용자로 로그인 해주시기 바랍니다.-->.
+    <ERROR_SHOP_CNT>店頭情報がありません。別のユーザーとしてログインしてください。</ERROR_SHOP_CNT>
+    <ERROR_QTY_CNT>数量を超えています。再入力してください。</ERROR_QTY_CNT>
+	
+	<!--에러가 발생했습니다. 거래를 다시 진행해주시기 바랍니다.-->
+    <ERROR_ISSUE>取引の登録に失敗しました。</ERROR_ISSUE>
+    <ERROR_SUM>合計が不可能な輸出物品販売場です。</ERROR_SUM>
+	
+	<!--환급이 불가능한 카드번호입니다.\n카드번호를 확인해주시기 바랍니다.-->
+	<ERROR_BIN>還付が不可能なカード番号です。\nカード番号をご確認ください。</ERROR_BIN>	
+	<ERROR_CARD_EMPTY>カード番号 登録してください。</ERROR_CARD_EMPTY>
+	<ERROR_QQ_EMPTY>QQ ID 登録してください。</ERROR_QQ_EMPTY>
+	<ERROR_QQ_ID>QQ ID 10000 〜 4294967295間の数字を入力してください。</ERROR_QQ_ID>
+	
+	<!--여권정보 입력요망-->
+	<ERROR_PASSPORT>旅券情報が存在しません。</ERROR_PASSPORT>
+	
+	<!--상륙일은 현재 날짜보다 이전이어야 합니다.\n날짜를 다시 입력해주시기 바랍니다.-->
+	<ERROR_DATE>入力された上陸年月日に誤りがあります。\n正しい日付を入力してください。</ERROR_DATE>
+	<!--상륙일이 6개월 이전이면 전표발행이 불가합니다.\n날짜를 다시 입력해주시기 바랍니다.-->
+	<ERROR_SIX_MONTH>上陸年月日から６ヶ月が過ぎているため還付登録ができません。</ERROR_SIX_MONTH>
+	
+	<ERROR_GOODS_AMT>同日、一般物品最小還付可能金額は5,000円以上です。</ERROR_GOODS_AMT>
+	<ERROR_COMSUMS_AMT>同日、消耗品最小還付可能金額は5,000円以上です。</ERROR_COMSUMS_AMT>
+	
+	<!--물품의 수량을 모두 입력하세요.-->
+	<ERROR_QTY>物品の数量をすべて入力してください。</ERROR_QTY>
+	<!-- 물품의 단가를 모두 입력하세요.-->
+	<ERROR_ITEM_AMT>物品の単価をすべて入力してください。</ERROR_ITEM_AMT>
+	<!--물품의 판매금액을 모두 입력하세요.-->
+	<ERROR_BUY_AMT>物品の販売金額をすべて入力してください。</ERROR_BUY_AMT>
+	<!--물품의 세금을 모두 입력하세요.-->
+	<ERROR_TAX_AMT>物品の税金をすべて入力してください。</ERROR_TAX_AMT>
+	<ERROR_CONSUMS_MAX_AMT>同日、同一店舗における消耗品購入上限は50万円です。</ERROR_CONSUMS_MAX_AMT>
+	
+	<ITEM_MAX>物品登録は10行までです。</ITEM_MAX>
+	
+	<ERROR_PRINT_DATE>本日発行された伝票のみ再出力が可能です。</ERROR_PRINT_DATE>
+	<!--로그인을 하지 못했습니다.\n로그인 정보를 확인해주시기 바랍니다.-->
+	<ERROR_LOGIN>ログインをしていませんでした。\n入力情報を確認してください。</ERROR_LOGIN>
+	<ERROR_LOGIN_CRITICAL>ログイン中にエラーが発生しました。\nログイン情報を再確認してください。\nプログラムを終了します。</ERROR_LOGIN_CRITICAL>
+	<!--프로그램을 종료하시겠습니까?-->
+	<SYSTEM_EXIT_CONFIRM>プログラムを終了しますか？</SYSTEM_EXIT_CONFIRM>
+	
+	<!--프로그램을 종료하시겠습니까?-->
+
+    <CLOSING>本日のオフライン業務を終了しますか。</CLOSING>
+	<CLOSING_CANCEL>オフライン業務終了をキャンセルしますか。</CLOSING_CANCEL>
+	
+	<!-- 업무마감을 취소하였습니다-->
+	<CLOSING_CANCEL_SUCCESS>オフライン業務終了をキャンセルしました。</CLOSING_CANCEL_SUCCESS>
+	<!--업무마감을 취소하지 못했습니다.-->
+	<CLOSING_CANCEL_FAIL>終業をキャンセルしていました。</CLOSING_CANCEL_FAIL>
+	 
+	<!--서버 미 전송 거래가 존재합니다.\n서버전송 되었는지 확인해 주시기 바랍니다.-->
+    <CLOSING_FAIL>オフライン業務を終了してから再度締め切りを行ってください。</CLOSING_FAIL>
+	<!--업무마감 하였습니다. 프로그램을 종료합니다.-->
+    <CLOSING_YES>オフライン業務終了しました。プログラムを終了します。</CLOSING_YES>
+	<!--업무마감 하지 못했습니다. 관리자 확인이 필요합니다.-->
+	<CLOSING_NO>終業ませんでした。管理者の確認が必要です。</CLOSING_NO>
+	<CLOSING_BLOCK>終業状態です。払い戻し伝票発行を行うことができません。</CLOSING_BLOCK>
+	<!--프로그램을 종료하시겠습니까?-->
+	<EXIT_CONFIRM>プログラムを終了しますか？</EXIT_CONFIRM>
+  <ASK_IT>本社にお問い合わせください</ASK_IT>
+	
+	<EMPTY_ID>IDを入力してください。</EMPTY_ID>
+	<EMPTY_PASSWORD>パスワードを入力してください。</EMPTY_PASSWORD>
+    <!-- 합산 발행된 전표 입니다.-->
+  <TOTAL_SLIP_ISSUED>合計発行された伝票です。</TOTAL_SLIP_ISSUED>
+    <!-- 취소할 항목을 선택 하세요-->
+  <SELECTCANCELSLIP>キャンセルする項目を選択してください。</SELECTCANCELSLIP>
+  <!-- 송금 전송전 거래입니다.-->
+  <REMMITYETSEND>送金転送前の取引です。</REMMITYETSEND>
+  <!-- 송금 완료된 거래입니다.-->
+  <REMMITSENDCOM>送金が完了取引です。。</REMMITSENDCOM>
+   <!-- 합산 발행된 모든 전표를 취소 합니다-->
+    <TOTALSLIPALLCANCEL>合計発行されたすべての伝票が還付取り消されます。</TOTALSLIPALLCANCEL>
+  <!-- 발행 취소를 합니까?-->
+    <CANCELREQUEST>発行解除しますか。 </CANCELREQUEST>
+    <!-- 이미 환급취소된 거래내역 입니다.-->
+  <ALREADYCANCELREFUND>既に還付キャンセルされた取引です。</ALREADYCANCELREFUND>
+  <!-- 취소처리가 완료되었습니다.-->
+    <REFUNDCANCELCOM>還付キャンセル完了です。</REFUNDCANCELCOM>
+  <!-- 취소하였습니다.-->
+    <CONFIRMCANCEL>キャンセル完了です。</CONFIRMCANCEL>
+    <!-- 취소처리에 실패 했습니다.-->
+  <REFUNDCANCELFAIL>還付のキャンセルに失敗しました。</REFUNDCANCELFAIL>
+    <!--설정파일을 읽지 못했습니다.-->
+    <!--초기화 오류-->
+	
+	
+  </JA>
+</Message>

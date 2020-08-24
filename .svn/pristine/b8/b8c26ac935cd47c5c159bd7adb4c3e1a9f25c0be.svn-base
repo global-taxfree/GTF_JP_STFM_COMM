@@ -1,0 +1,3 @@
+DEBUG [01/10 14:44:28,023][GTF_STFM_COMM.Screen.TrxnDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 1
+DEBUG [01/10 14:44:28,085][GTF_STFM_COMM.Screen.TrxnDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 2
+DEBUG [01/10 14:44:28,556][GTF_STFM_COMM.Screen.TrxnDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 3

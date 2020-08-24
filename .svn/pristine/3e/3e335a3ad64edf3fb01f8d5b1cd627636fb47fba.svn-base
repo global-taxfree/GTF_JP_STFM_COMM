@@ -1,0 +1,251 @@
+INFO  [07/02 09:46:01,331][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:557, parentControl.Size.Height:327
+INFO  [07/02 09:46:10,463][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :start
+INFO  [07/02 09:46:11,403][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :merchant
+INFO  [07/02 09:46:11,663][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :item
+INFO  [07/02 09:46:11,903][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :taxoffice
+INFO  [07/02 09:46:11,923][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :ads
+INFO  [07/02 09:46:12,293][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 09:46:12,433][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 09:46:12,473][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 09:46:12,513][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 09:46:12,643][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 09:46:12,693][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 09:46:12,733][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 09:46:12,753][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1360, parentControl.Size.Height:728
+INFO  [07/02 09:47:23,620][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1100, parentControl.Size.Height:600
+INFO  [07/02 09:47:26,850][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1100, parentControl.Size.Height:600
+INFO  [07/02 09:48:33,426][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1100, parentControl.Size.Height:600
+INFO  [07/02 09:48:38,226][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1100, parentControl.Size.Height:600
+INFO  [07/02 09:56:25,557][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:557, parentControl.Size.Height:327
+INFO  [07/02 09:56:32,607][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :start
+INFO  [07/02 09:56:33,557][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :merchant
+INFO  [07/02 09:56:33,817][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :item
+INFO  [07/02 09:56:34,067][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :taxoffice
+INFO  [07/02 09:56:34,097][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :ads
+INFO  [07/02 09:56:34,427][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 09:56:34,597][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 09:56:34,637][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 09:56:34,677][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 09:56:34,827][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 09:56:34,877][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 09:56:34,917][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 09:56:34,937][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1360, parentControl.Size.Height:728
+INFO  [07/02 09:56:52,627][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1100, parentControl.Size.Height:600
+INFO  [07/02 09:56:56,907][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1100, parentControl.Size.Height:600
+ERROR [07/02 09:58:27,496][GTF_Comm.GTF_CommManager.sendHttp_Json] -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout) 파일 C:\SVN\GTF_JP_STFM\GTF_COMM\GTF_CommManager.cs:줄 58
+INFO  [07/02 10:10:53,885][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:557, parentControl.Size.Height:327
+INFO  [07/02 10:11:00,484][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :start
+INFO  [07/02 10:11:01,395][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :merchant
+INFO  [07/02 10:11:01,654][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :item
+INFO  [07/02 10:11:01,929][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :taxoffice
+INFO  [07/02 10:11:01,951][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :ads
+INFO  [07/02 10:11:02,344][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 10:11:02,524][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 10:11:02,571][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 10:11:02,641][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 10:11:02,757][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 10:11:02,812][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 10:11:02,864][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 10:11:02,880][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1360, parentControl.Size.Height:728
+INFO  [07/02 11:34:15,529][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:557, parentControl.Size.Height:327
+INFO  [07/02 11:34:23,344][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :start
+INFO  [07/02 11:34:24,156][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :merchant
+INFO  [07/02 11:34:24,429][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :item
+INFO  [07/02 11:34:24,701][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :taxoffice
+INFO  [07/02 11:34:24,723][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :ads
+INFO  [07/02 11:34:25,089][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 11:34:25,272][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 11:34:25,325][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 11:34:25,375][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 11:34:25,469][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 11:34:25,523][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 11:34:25,575][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 11:34:25,593][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1360, parentControl.Size.Height:728
+INFO  [07/02 13:26:02,281][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:557, parentControl.Size.Height:327
+INFO  [07/02 13:26:09,061][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :start
+INFO  [07/02 13:26:09,887][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :merchant
+INFO  [07/02 13:26:10,178][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :item
+INFO  [07/02 13:26:10,467][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :taxoffice
+INFO  [07/02 13:26:10,500][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :ads
+INFO  [07/02 13:26:10,925][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 13:26:11,105][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 13:26:11,175][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 13:26:11,238][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 13:26:11,435][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 13:26:11,499][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 13:26:11,554][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 13:26:11,574][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1360, parentControl.Size.Height:728
+INFO  [07/02 14:03:12,985][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1100, parentControl.Size.Height:600
+INFO  [07/02 14:03:16,315][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1100, parentControl.Size.Height:600
+INFO  [07/02 14:04:07,817][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1100, parentControl.Size.Height:600
+INFO  [07/02 14:04:12,429][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1100, parentControl.Size.Height:600
+INFO  [07/02 14:10:48,665][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:557, parentControl.Size.Height:327
+INFO  [07/02 14:10:57,168][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :start
+INFO  [07/02 14:10:57,975][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :merchant
+INFO  [07/02 14:10:58,294][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :item
+INFO  [07/02 14:10:58,571][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :taxoffice
+INFO  [07/02 14:10:58,594][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :ads
+INFO  [07/02 14:10:58,983][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 14:10:59,164][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 14:10:59,215][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 14:10:59,269][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 14:10:59,445][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 14:10:59,507][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 14:10:59,559][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 14:10:59,577][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1360, parentControl.Size.Height:728
+INFO  [07/02 14:20:17,595][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:557, parentControl.Size.Height:327
+INFO  [07/02 14:20:25,783][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :start
+INFO  [07/02 14:20:26,856][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :merchant
+INFO  [07/02 14:20:27,143][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :item
+INFO  [07/02 14:20:27,464][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :taxoffice
+INFO  [07/02 14:20:27,488][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :ads
+INFO  [07/02 14:20:27,895][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 14:20:28,095][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 14:20:28,152][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 14:20:28,201][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 14:20:28,302][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 14:20:28,387][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 14:20:28,442][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 14:20:28,460][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1360, parentControl.Size.Height:728
+INFO  [07/02 15:11:53,837][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:557, parentControl.Size.Height:327
+INFO  [07/02 15:12:00,750][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :start
+INFO  [07/02 15:12:01,721][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :merchant
+INFO  [07/02 15:12:02,041][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :item
+INFO  [07/02 15:12:02,366][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :taxoffice
+INFO  [07/02 15:12:02,389][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :ads
+INFO  [07/02 15:12:02,951][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 15:12:03,186][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 15:12:03,255][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 15:12:03,354][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 15:12:03,482][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 15:12:03,564][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 15:12:03,629][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 15:12:03,648][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1360, parentControl.Size.Height:728
+INFO  [07/02 16:03:52,016][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:557, parentControl.Size.Height:327
+INFO  [07/02 16:03:59,559][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :start
+INFO  [07/02 16:04:00,190][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :merchant
+INFO  [07/02 16:04:00,480][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :item
+INFO  [07/02 16:04:00,755][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :taxoffice
+INFO  [07/02 16:04:00,797][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :ads
+INFO  [07/02 16:04:01,300][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 16:04:01,509][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 16:04:01,561][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 16:04:01,621][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 16:04:01,876][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 16:04:01,947][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 16:04:02,004][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 16:04:02,020][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1360, parentControl.Size.Height:728
+INFO  [07/02 18:28:56,678][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:557, parentControl.Size.Height:327
+INFO  [07/02 18:29:02,462][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :start
+INFO  [07/02 18:29:03,106][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :merchant
+INFO  [07/02 18:29:03,343][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :item
+INFO  [07/02 18:29:03,799][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :taxoffice
+INFO  [07/02 18:29:03,822][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :ads
+INFO  [07/02 18:29:04,313][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 18:29:04,510][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 18:29:04,561][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 18:29:04,632][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 18:29:04,755][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 18:29:04,834][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 18:29:04,889][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 18:29:04,907][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1360, parentControl.Size.Height:728
+INFO  [07/02 18:42:04,285][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:557, parentControl.Size.Height:327
+INFO  [07/02 18:42:20,356][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :start
+INFO  [07/02 18:42:20,981][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :merchant
+INFO  [07/02 18:42:21,231][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :item
+INFO  [07/02 18:42:21,480][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :taxoffice
+INFO  [07/02 18:42:21,503][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :ads
+INFO  [07/02 18:42:21,922][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 18:42:22,103][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 18:42:22,154][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 18:42:22,239][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 18:42:22,393][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 18:42:22,456][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 18:42:22,509][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 18:42:22,527][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1360, parentControl.Size.Height:728
+INFO  [07/02 18:44:05,906][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:557, parentControl.Size.Height:327
+INFO  [07/02 18:44:13,790][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :start
+INFO  [07/02 18:44:14,666][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :merchant
+INFO  [07/02 18:44:14,915][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :item
+INFO  [07/02 18:44:15,169][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :taxoffice
+INFO  [07/02 18:44:15,192][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :ads
+INFO  [07/02 18:44:15,589][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 18:44:15,751][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 18:44:15,800][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 18:44:15,856][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 18:44:15,948][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 18:44:16,014][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 18:44:16,065][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 18:44:16,086][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1360, parentControl.Size.Height:728
+INFO  [07/02 18:46:30,055][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:557, parentControl.Size.Height:327
+INFO  [07/02 18:46:35,646][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :start
+INFO  [07/02 18:46:36,330][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :merchant
+INFO  [07/02 18:46:36,571][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :item
+INFO  [07/02 18:46:36,820][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :taxoffice
+INFO  [07/02 18:46:36,842][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :ads
+INFO  [07/02 18:46:37,220][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 18:46:37,394][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 18:46:37,443][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 18:46:37,502][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 18:46:37,612][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 18:46:37,684][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 18:46:37,738][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 18:46:37,755][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1360, parentControl.Size.Height:728
+INFO  [07/02 18:47:31,994][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:557, parentControl.Size.Height:327
+INFO  [07/02 18:47:37,756][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :start
+INFO  [07/02 18:47:38,403][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :merchant
+INFO  [07/02 18:47:38,651][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :item
+INFO  [07/02 18:47:38,889][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :taxoffice
+INFO  [07/02 18:47:38,912][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :ads
+INFO  [07/02 18:47:39,313][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 18:47:39,513][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 18:47:39,571][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 18:47:39,626][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 18:47:39,715][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 18:47:39,772][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 18:47:39,823][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 18:47:39,840][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1360, parentControl.Size.Height:728
+INFO  [07/02 18:48:47,979][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:557, parentControl.Size.Height:327
+INFO  [07/02 18:48:55,150][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :start
+INFO  [07/02 18:48:55,810][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :merchant
+INFO  [07/02 18:48:56,064][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :item
+INFO  [07/02 18:48:56,306][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :taxoffice
+INFO  [07/02 18:48:56,329][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :ads
+INFO  [07/02 18:48:56,718][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 18:48:56,883][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 18:48:56,931][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 18:48:56,986][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 18:48:57,078][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 18:48:57,138][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 18:48:57,192][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 18:48:57,212][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1360, parentControl.Size.Height:728
+INFO  [07/02 18:49:45,255][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:557, parentControl.Size.Height:327
+INFO  [07/02 18:49:50,992][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :start
+INFO  [07/02 18:49:51,862][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :merchant
+INFO  [07/02 18:49:52,112][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :item
+INFO  [07/02 18:49:52,363][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :taxoffice
+INFO  [07/02 18:49:52,385][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :ads
+INFO  [07/02 18:49:52,788][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 18:49:52,955][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 18:49:53,002][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 18:49:53,061][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 18:49:53,153][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 18:49:53,216][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 18:49:53,264][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 18:49:53,281][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1360, parentControl.Size.Height:728
+INFO  [07/02 18:55:52,034][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:557, parentControl.Size.Height:327
+INFO  [07/02 18:55:58,983][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :start
+INFO  [07/02 18:55:59,619][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :merchant
+INFO  [07/02 18:55:59,893][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :item
+INFO  [07/02 18:56:00,142][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :taxoffice
+INFO  [07/02 18:56:00,164][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :ads
+INFO  [07/02 18:56:00,572][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 18:56:00,744][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 18:56:00,798][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 18:56:00,856][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 18:56:00,951][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 18:56:01,012][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 18:56:01,062][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [07/02 18:56:01,078][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1360, parentControl.Size.Height:728

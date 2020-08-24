@@ -1,0 +1,1969 @@
+INFO  [09/29 10:56:44,642][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:557, parentControl.Size.Height:327
+INFO  [09/29 10:56:56,617][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/offLogin
+INFO  [09/29 10:56:56,623][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA002",
+  "passWord": "gtf12345",
+  "openDate": "20170929",
+  "languageCD": "jp",
+  "companyID": "000001"
+}
+INFO  [09/29 10:56:56,852][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:37
+INFO  [09/29 10:57:35,102][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/offLogin
+INFO  [09/29 10:57:35,110][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA002",
+  "passWord": "gtf12345",
+  "openDate": "20170929",
+  "languageCD": "jp",
+  "companyID": "000001"
+}
+INFO  [09/29 10:57:35,160][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:145
+INFO  [09/29 10:57:35,272][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :start
+INFO  [09/29 10:57:35,276][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/getOffInfo
+INFO  [09/29 10:57:35,277][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA002",
+  "merchantNo": "",
+  "deskId": "0000000001",
+  "languageCD": "jp",
+  "companyID": "000001",
+  "code_type": "merchant"
+}
+INFO  [09/29 10:57:35,430][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:131467
+INFO  [09/29 10:57:36,190][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :merchant
+INFO  [09/29 10:57:36,194][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/getOffInfo
+INFO  [09/29 10:57:36,195][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA002",
+  "merchantNo": "",
+  "deskId": "0000000001",
+  "languageCD": "jp",
+  "companyID": "000001",
+  "code_type": "item"
+}
+INFO  [09/29 10:57:36,257][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:9399
+INFO  [09/29 10:57:36,659][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :item
+INFO  [09/29 10:57:36,661][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/getOffInfo
+INFO  [09/29 10:57:36,662][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA002",
+  "merchantNo": "",
+  "deskId": "0000000001",
+  "languageCD": "jp",
+  "companyID": "000001",
+  "code_type": "taxoffice"
+}
+INFO  [09/29 10:57:36,716][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:20200
+INFO  [09/29 10:57:37,043][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :taxoffice
+INFO  [09/29 10:57:37,045][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/getOffInfo
+INFO  [09/29 10:57:37,046][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA002",
+  "merchantNo": "",
+  "deskId": "0000000001",
+  "languageCD": "jp",
+  "companyID": "000001",
+  "code_type": "ads"
+}
+INFO  [09/29 10:57:37,095][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:45
+INFO  [09/29 10:57:37,096][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :ads
+INFO  [09/29 10:57:37,907][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [09/29 10:57:38,154][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/getOffInfo
+INFO  [09/29 10:57:38,164][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA002",
+  "merchantNo": "",
+  "deskId": "0000000001",
+  "languageCD": "jp",
+  "companyID": "000001",
+  "code_type": "code"
+}
+INFO  [09/29 10:57:38,249][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [09/29 10:57:38,360][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [09/29 10:57:38,572][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [09/29 10:57:38,697][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [09/29 10:57:38,765][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1360, parentControl.Size.Height:728
+INFO  [09/29 10:57:38,850][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:1136363
+INFO  [09/29 10:58:06,577][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1100, parentControl.Size.Height:630
+DEBUG [09/29 10:58:07,093][GTF_STFM.Screen.SlipDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 1
+DEBUG [09/29 10:58:07,296][GTF_STFM.Screen.SlipDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 2
+DEBUG [09/29 10:58:07,959][GTF_STFM.Screen.SlipDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 3
+INFO  [09/29 10:58:19,068][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/getOffInfo
+INFO  [09/29 10:58:19,069][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA002",
+  "merchantNo": "",
+  "deskId": "0000000001",
+  "languageCD": "jp",
+  "companyID": "000001",
+  "code_type": "bin"
+}
+INFO  [09/29 10:58:20,059][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:985000
+INFO  [09/29 11:17:53,574][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:557, parentControl.Size.Height:327
+INFO  [09/29 11:18:00,933][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/offLogin
+INFO  [09/29 11:18:00,939][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA002",
+  "passWord": "gtf12345",
+  "openDate": "20170929",
+  "languageCD": "jp",
+  "companyID": "000001"
+}
+INFO  [09/29 11:18:01,047][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:145
+INFO  [09/29 11:18:01,153][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :start
+INFO  [09/29 11:18:01,157][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/getOffInfo
+INFO  [09/29 11:18:01,158][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA002",
+  "merchantNo": "",
+  "deskId": "0000000001",
+  "languageCD": "jp",
+  "companyID": "000001",
+  "code_type": "merchant"
+}
+INFO  [09/29 11:18:01,291][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:131467
+INFO  [09/29 11:18:02,069][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :merchant
+INFO  [09/29 11:18:02,073][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/getOffInfo
+INFO  [09/29 11:18:02,074][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA002",
+  "merchantNo": "",
+  "deskId": "0000000001",
+  "languageCD": "jp",
+  "companyID": "000001",
+  "code_type": "item"
+}
+INFO  [09/29 11:18:02,130][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:9399
+INFO  [09/29 11:18:02,466][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :item
+INFO  [09/29 11:18:02,467][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/getOffInfo
+INFO  [09/29 11:18:02,468][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA002",
+  "merchantNo": "",
+  "deskId": "0000000001",
+  "languageCD": "jp",
+  "companyID": "000001",
+  "code_type": "taxoffice"
+}
+INFO  [09/29 11:18:02,518][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:20200
+INFO  [09/29 11:18:02,834][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :taxoffice
+INFO  [09/29 11:18:02,836][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/getOffInfo
+INFO  [09/29 11:18:02,837][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA002",
+  "merchantNo": "",
+  "deskId": "0000000001",
+  "languageCD": "jp",
+  "companyID": "000001",
+  "code_type": "ads"
+}
+INFO  [09/29 11:18:02,868][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:45
+INFO  [09/29 11:18:02,869][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :ads
+INFO  [09/29 11:18:03,624][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [09/29 11:18:03,956][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/getOffInfo
+INFO  [09/29 11:18:03,963][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA002",
+  "merchantNo": "",
+  "deskId": "0000000001",
+  "languageCD": "jp",
+  "companyID": "000001",
+  "code_type": "code"
+}
+INFO  [09/29 11:18:03,980][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [09/29 11:18:04,104][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [09/29 11:18:04,337][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [09/29 11:18:04,430][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [09/29 11:18:04,478][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1360, parentControl.Size.Height:728
+INFO  [09/29 11:18:04,763][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:1136363
+INFO  [09/29 11:18:58,055][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:557, parentControl.Size.Height:327
+INFO  [09/29 11:19:15,686][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/offLogin
+INFO  [09/29 11:19:15,689][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA002",
+  "passWord": "gtf12345",
+  "openDate": "20170929",
+  "languageCD": "jp",
+  "companyID": "000001"
+}
+INFO  [09/29 11:19:15,799][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:145
+INFO  [09/29 11:19:15,907][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :start
+INFO  [09/29 11:19:15,911][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/getOffInfo
+INFO  [09/29 11:19:15,912][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA002",
+  "merchantNo": "",
+  "deskId": "0000000001",
+  "languageCD": "jp",
+  "companyID": "000001",
+  "code_type": "merchant"
+}
+INFO  [09/29 11:19:16,049][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:131467
+INFO  [09/29 11:19:16,763][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :merchant
+INFO  [09/29 11:19:16,767][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/getOffInfo
+INFO  [09/29 11:19:16,768][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA002",
+  "merchantNo": "",
+  "deskId": "0000000001",
+  "languageCD": "jp",
+  "companyID": "000001",
+  "code_type": "item"
+}
+INFO  [09/29 11:19:16,822][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:9399
+INFO  [09/29 11:19:17,149][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :item
+INFO  [09/29 11:19:17,151][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/getOffInfo
+INFO  [09/29 11:19:17,152][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA002",
+  "merchantNo": "",
+  "deskId": "0000000001",
+  "languageCD": "jp",
+  "companyID": "000001",
+  "code_type": "taxoffice"
+}
+INFO  [09/29 11:19:17,206][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:20200
+INFO  [09/29 11:19:17,507][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :taxoffice
+INFO  [09/29 11:19:17,509][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/getOffInfo
+INFO  [09/29 11:19:17,510][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA002",
+  "merchantNo": "",
+  "deskId": "0000000001",
+  "languageCD": "jp",
+  "companyID": "000001",
+  "code_type": "ads"
+}
+INFO  [09/29 11:19:17,538][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:45
+INFO  [09/29 11:19:17,539][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :ads
+INFO  [09/29 11:19:18,229][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [09/29 11:19:18,538][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [09/29 11:19:18,621][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/getOffInfo
+INFO  [09/29 11:19:18,625][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA002",
+  "merchantNo": "",
+  "deskId": "0000000001",
+  "languageCD": "jp",
+  "companyID": "000001",
+  "code_type": "code"
+}
+INFO  [09/29 11:19:18,657][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [09/29 11:19:18,866][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [09/29 11:19:18,978][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [09/29 11:19:19,018][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1360, parentControl.Size.Height:728
+INFO  [09/29 11:19:19,348][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:1136363
+INFO  [09/29 11:23:32,812][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:557, parentControl.Size.Height:327
+INFO  [09/29 11:23:39,309][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/offLogin
+INFO  [09/29 11:23:39,315][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA002",
+  "passWord": "gtf12345",
+  "openDate": "20170929",
+  "languageCD": "jp",
+  "companyID": "000001"
+}
+INFO  [09/29 11:23:39,470][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:145
+INFO  [09/29 11:23:39,618][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :start
+INFO  [09/29 11:23:39,620][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/getOffInfo
+INFO  [09/29 11:23:39,621][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA002",
+  "merchantNo": "",
+  "deskId": "0000000001",
+  "languageCD": "jp",
+  "companyID": "000001",
+  "code_type": "merchant"
+}
+INFO  [09/29 11:23:39,732][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:131467
+INFO  [09/29 11:23:40,703][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :merchant
+INFO  [09/29 11:23:40,706][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/getOffInfo
+INFO  [09/29 11:23:40,707][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA002",
+  "merchantNo": "",
+  "deskId": "0000000001",
+  "languageCD": "jp",
+  "companyID": "000001",
+  "code_type": "item"
+}
+INFO  [09/29 11:23:40,766][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:9399
+INFO  [09/29 11:23:41,102][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :item
+INFO  [09/29 11:23:41,105][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/getOffInfo
+INFO  [09/29 11:23:41,106][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA002",
+  "merchantNo": "",
+  "deskId": "0000000001",
+  "languageCD": "jp",
+  "companyID": "000001",
+  "code_type": "taxoffice"
+}
+INFO  [09/29 11:23:41,159][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:20200
+INFO  [09/29 11:23:41,487][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :taxoffice
+INFO  [09/29 11:23:41,488][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/getOffInfo
+INFO  [09/29 11:23:41,489][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA002",
+  "merchantNo": "",
+  "deskId": "0000000001",
+  "languageCD": "jp",
+  "companyID": "000001",
+  "code_type": "ads"
+}
+INFO  [09/29 11:23:41,514][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:45
+INFO  [09/29 11:23:41,515][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :ads
+INFO  [09/29 11:23:42,267][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [09/29 11:23:42,570][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/getOffInfo
+INFO  [09/29 11:23:42,586][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA002",
+  "merchantNo": "",
+  "deskId": "0000000001",
+  "languageCD": "jp",
+  "companyID": "000001",
+  "code_type": "code"
+}
+INFO  [09/29 11:23:42,770][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [09/29 11:23:42,970][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [09/29 11:23:43,227][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [09/29 11:23:43,326][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:1136363
+INFO  [09/29 11:23:43,341][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [09/29 11:23:43,406][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1360, parentControl.Size.Height:728
+INFO  [09/29 11:24:04,710][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:761, parentControl.Size.Height:340
+INFO  [09/29 11:24:41,117][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/getOffInfo
+INFO  [09/29 11:24:41,117][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA002",
+  "merchantNo": "",
+  "deskId": "0000000001",
+  "languageCD": "jp",
+  "companyID": "000001",
+  "code_type": "bin"
+}
+INFO  [09/29 11:24:42,120][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:985000
+INFO  [09/29 13:38:35,611][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:557, parentControl.Size.Height:327
+INFO  [09/29 13:38:42,249][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/offLogin
+INFO  [09/29 13:38:42,253][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA002",
+  "passWord": "gtf12345",
+  "openDate": "20170929",
+  "languageCD": "jp",
+  "companyID": "000001"
+}
+INFO  [09/29 13:38:42,396][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:145
+INFO  [09/29 13:38:42,512][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :start
+INFO  [09/29 13:38:42,514][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/getOffInfo
+INFO  [09/29 13:38:42,515][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA002",
+  "merchantNo": "",
+  "deskId": "0000000001",
+  "languageCD": "jp",
+  "companyID": "000001",
+  "code_type": "merchant"
+}
+INFO  [09/29 13:38:42,621][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:131467
+INFO  [09/29 13:38:43,453][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :merchant
+INFO  [09/29 13:38:43,458][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/getOffInfo
+INFO  [09/29 13:38:43,458][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA002",
+  "merchantNo": "",
+  "deskId": "0000000001",
+  "languageCD": "jp",
+  "companyID": "000001",
+  "code_type": "item"
+}
+INFO  [09/29 13:38:43,514][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:9399
+INFO  [09/29 13:38:43,852][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :item
+INFO  [09/29 13:38:43,853][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/getOffInfo
+INFO  [09/29 13:38:43,854][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA002",
+  "merchantNo": "",
+  "deskId": "0000000001",
+  "languageCD": "jp",
+  "companyID": "000001",
+  "code_type": "taxoffice"
+}
+INFO  [09/29 13:38:43,905][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:20200
+INFO  [09/29 13:38:44,228][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :taxoffice
+INFO  [09/29 13:38:44,229][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/getOffInfo
+INFO  [09/29 13:38:44,230][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA002",
+  "merchantNo": "",
+  "deskId": "0000000001",
+  "languageCD": "jp",
+  "companyID": "000001",
+  "code_type": "ads"
+}
+INFO  [09/29 13:38:44,256][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:45
+INFO  [09/29 13:38:44,257][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :ads
+INFO  [09/29 13:38:44,940][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [09/29 13:38:45,228][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [09/29 13:38:45,295][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/getOffInfo
+INFO  [09/29 13:38:45,302][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA002",
+  "merchantNo": "",
+  "deskId": "0000000001",
+  "languageCD": "jp",
+  "companyID": "000001",
+  "code_type": "code"
+}
+INFO  [09/29 13:38:45,341][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [09/29 13:38:45,536][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [09/29 13:38:45,639][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [09/29 13:38:45,690][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1360, parentControl.Size.Height:728
+INFO  [09/29 13:38:46,194][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:1136363
+INFO  [09/29 13:39:24,867][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/getOffInfo
+INFO  [09/29 13:39:24,867][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA002",
+  "merchantNo": "",
+  "deskId": "0000000001",
+  "languageCD": "jp",
+  "companyID": "000001",
+  "code_type": "bin"
+}
+INFO  [09/29 13:39:25,920][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:985000
+INFO  [09/29 13:40:43,559][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:557, parentControl.Size.Height:327
+INFO  [09/29 15:43:04,241][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:557, parentControl.Size.Height:327
+INFO  [09/29 15:43:13,465][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/offLogin
+INFO  [09/29 15:43:13,470][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA002",
+  "passWord": "gtf12345",
+  "openDate": "20170929",
+  "languageCD": "jp",
+  "companyID": "000001"
+}
+INFO  [09/29 15:43:13,577][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:145
+INFO  [09/29 15:43:13,688][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :start
+INFO  [09/29 15:43:13,691][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/getOffInfo
+INFO  [09/29 15:43:13,692][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA002",
+  "merchantNo": "",
+  "deskId": "0000000001",
+  "languageCD": "jp",
+  "companyID": "000001",
+  "code_type": "merchant"
+}
+INFO  [09/29 15:43:13,838][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:131467
+INFO  [09/29 15:43:14,586][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :merchant
+INFO  [09/29 15:43:14,589][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/getOffInfo
+INFO  [09/29 15:43:14,590][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA002",
+  "merchantNo": "",
+  "deskId": "0000000001",
+  "languageCD": "jp",
+  "companyID": "000001",
+  "code_type": "item"
+}
+INFO  [09/29 15:43:14,648][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:9399
+INFO  [09/29 15:43:15,001][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :item
+INFO  [09/29 15:43:15,003][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/getOffInfo
+INFO  [09/29 15:43:15,004][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA002",
+  "merchantNo": "",
+  "deskId": "0000000001",
+  "languageCD": "jp",
+  "companyID": "000001",
+  "code_type": "taxoffice"
+}
+INFO  [09/29 15:43:15,057][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:20200
+INFO  [09/29 15:43:15,371][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :taxoffice
+INFO  [09/29 15:43:15,373][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/getOffInfo
+INFO  [09/29 15:43:15,373][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA002",
+  "merchantNo": "",
+  "deskId": "0000000001",
+  "languageCD": "jp",
+  "companyID": "000001",
+  "code_type": "ads"
+}
+INFO  [09/29 15:43:15,400][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:45
+INFO  [09/29 15:43:15,401][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :ads
+INFO  [09/29 15:43:16,115][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [09/29 15:43:16,425][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [09/29 15:43:16,495][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/getOffInfo
+INFO  [09/29 15:43:16,500][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA002",
+  "merchantNo": "",
+  "deskId": "0000000001",
+  "languageCD": "jp",
+  "companyID": "000001",
+  "code_type": "code"
+}
+INFO  [09/29 15:43:16,549][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [09/29 15:43:16,787][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [09/29 15:43:16,925][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [09/29 15:43:16,965][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1360, parentControl.Size.Height:728
+INFO  [09/29 15:43:17,301][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:1136363
+INFO  [09/29 15:47:03,550][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:557, parentControl.Size.Height:327
+INFO  [09/29 15:47:09,437][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/offLogin
+INFO  [09/29 15:47:09,440][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA002",
+  "passWord": "gtf12345",
+  "openDate": "20170929",
+  "languageCD": "jp",
+  "companyID": "000001"
+}
+INFO  [09/29 15:47:09,563][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:145
+INFO  [09/29 15:47:09,672][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :start
+INFO  [09/29 15:47:09,676][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/getOffInfo
+INFO  [09/29 15:47:09,677][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA002",
+  "merchantNo": "",
+  "deskId": "0000000001",
+  "languageCD": "jp",
+  "companyID": "000001",
+  "code_type": "merchant"
+}
+INFO  [09/29 15:47:09,830][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:131467
+INFO  [09/29 15:47:10,566][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :merchant
+INFO  [09/29 15:47:10,569][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/getOffInfo
+INFO  [09/29 15:47:10,570][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA002",
+  "merchantNo": "",
+  "deskId": "0000000001",
+  "languageCD": "jp",
+  "companyID": "000001",
+  "code_type": "item"
+}
+INFO  [09/29 15:47:10,626][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:9399
+INFO  [09/29 15:47:11,016][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :item
+INFO  [09/29 15:47:11,017][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/getOffInfo
+INFO  [09/29 15:47:11,018][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA002",
+  "merchantNo": "",
+  "deskId": "0000000001",
+  "languageCD": "jp",
+  "companyID": "000001",
+  "code_type": "taxoffice"
+}
+INFO  [09/29 15:47:11,071][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:20200
+INFO  [09/29 15:47:11,429][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :taxoffice
+INFO  [09/29 15:47:11,432][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/getOffInfo
+INFO  [09/29 15:47:11,433][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA002",
+  "merchantNo": "",
+  "deskId": "0000000001",
+  "languageCD": "jp",
+  "companyID": "000001",
+  "code_type": "ads"
+}
+INFO  [09/29 15:47:11,455][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:45
+INFO  [09/29 15:47:11,456][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :ads
+INFO  [09/29 15:47:12,417][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [09/29 15:47:12,852][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [09/29 15:47:12,980][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [09/29 15:47:13,157][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [09/29 15:47:13,250][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [09/29 15:47:13,298][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1360, parentControl.Size.Height:728
+INFO  [09/29 15:47:13,550][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/getOffInfo
+INFO  [09/29 15:47:13,553][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA002",
+  "merchantNo": "",
+  "deskId": "0000000001",
+  "languageCD": "jp",
+  "companyID": "000001",
+  "code_type": "code"
+}
+INFO  [09/29 15:47:14,241][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:1136363
+INFO  [09/29 15:47:28,856][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:761, parentControl.Size.Height:340
+INFO  [09/29 15:47:35,731][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1100, parentControl.Size.Height:600
+INFO  [09/29 15:47:43,358][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1100, parentControl.Size.Height:600
+INFO  [09/29 15:47:51,147][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/getOffInfo
+INFO  [09/29 15:47:51,148][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA002",
+  "merchantNo": "",
+  "deskId": "0000000001",
+  "languageCD": "jp",
+  "companyID": "000001",
+  "code_type": "bin"
+}
+INFO  [09/29 15:47:52,090][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:985000
+INFO  [09/29 15:48:03,840][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:48:03,841][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "slipList": [
+    {
+      "buyer_name": "M2123",
+      "passport_serial_no": "123555",
+      "nationality_code": "CHN",
+      "gender_code": "M",
+      "buyer_birth": "20170929",
+      "pass_expirydt": "20170929",
+      "input_way_code": "02",
+      "residence_no": "00000001",
+      "entrydt": "20170925",
+      "passport_type": "01",
+      "slip_no": "20002417092915475601",
+      "merchant_no": "00000029",
+      "out_div_code": "00",
+      "refund_way_code": "01",
+      "slip_status_code": "02",
+      "tml_id": "00024",
+      "refund_cardno": "",
+      "refund_card_code": "",
+      "total_slipseq": "",
+      "tax_proc_time_code": "02",
+      "unikey": "00024979",
+      "saledt": "17/09/29 15:47:56",
+      "refunddt": "17/09/29 15:48:03",
+      "userId": "FUKUOKA002",
+      "merchantNo": "00000029",
+      "deskId": "0000000001",
+      "companyID": "000001",
+      "total_excomm_in_tax_sale_amt": "15000",
+      "total_comm_in_tax_sale_amt": "0",
+      "comm": "",
+      "total_comm_sale_amt": "0",
+      "total_comm_tax_amt": "0",
+      "total_comm_refund_amt": "0",
+      "total_comm_fee_amt": "0",
+      "excomm": "A0001",
+      "total_excomm_sale_amt": "13889",
+      "total_excomm_tax_amt": "1111",
+      "total_excomm_refund_amt": "902",
+      "total_excomm_fee_amt": "209",
+      "remit_amt": "902",
+      "saleGoodsList": [
+        {
+          "slip_no": "20002417092915475601",
+          "sale_seq": "1",
+          "rec_no": "G0000002920170929154743",
+          "tax_amt": "1111",
+          "refund_amt": "902",
+          "fee_amt": "209",
+          "goods_items_code": "A0001",
+          "goods_group_code": "B0030",
+          "goods_division": "C0167",
+          "tax_proc_time_code": "02",
+          "goods_amt": "15000",
+          "tax_point_proc_code": "04",
+          "goods_qty": "1",
+          "goods_unit_price": "15000",
+          "goods_name": "ª½ªÎöâ",
+          "goods_tax_code": "SCT",
+          "same_unit_saleAmt": "Y",
+          "worker_id": "FUKUOKA002"
+        }
+      ]
+    }
+  ],
+  "userId": "FUKUOKA002",
+  "companyID": "000001",
+  "languageCD": "jp",
+  "merchantNo": "",
+  "deskId": "0000000001"
+}
+INFO  [09/29 15:48:04,577][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:14
+INFO  [09/29 15:54:19,545][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:557, parentControl.Size.Height:327
+INFO  [09/29 15:54:27,742][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/offLogin
+INFO  [09/29 15:54:27,747][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA001",
+  "passWord": "gtf12345",
+  "openDate": "20170929",
+  "languageCD": "jp",
+  "companyID": "000001"
+}
+INFO  [09/29 15:54:27,857][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:145
+INFO  [09/29 15:54:27,955][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :start
+INFO  [09/29 15:54:27,958][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/getOffInfo
+INFO  [09/29 15:54:27,959][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA001",
+  "merchantNo": "",
+  "deskId": "0000000001",
+  "languageCD": "jp",
+  "companyID": "000001",
+  "code_type": "merchant"
+}
+INFO  [09/29 15:54:28,113][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:131467
+INFO  [09/29 15:54:28,842][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :merchant
+INFO  [09/29 15:54:28,845][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/getOffInfo
+INFO  [09/29 15:54:28,846][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA001",
+  "merchantNo": "",
+  "deskId": "0000000001",
+  "languageCD": "jp",
+  "companyID": "000001",
+  "code_type": "item"
+}
+INFO  [09/29 15:54:28,901][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:9399
+INFO  [09/29 15:54:29,226][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :item
+INFO  [09/29 15:54:29,228][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/getOffInfo
+INFO  [09/29 15:54:29,229][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA001",
+  "merchantNo": "",
+  "deskId": "0000000001",
+  "languageCD": "jp",
+  "companyID": "000001",
+  "code_type": "taxoffice"
+}
+INFO  [09/29 15:54:29,282][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:20200
+INFO  [09/29 15:54:29,614][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :taxoffice
+INFO  [09/29 15:54:29,615][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/getOffInfo
+INFO  [09/29 15:54:29,616][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA001",
+  "merchantNo": "",
+  "deskId": "0000000001",
+  "languageCD": "jp",
+  "companyID": "000001",
+  "code_type": "ads"
+}
+INFO  [09/29 15:54:29,636][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:45
+INFO  [09/29 15:54:29,637][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :ads
+INFO  [09/29 15:54:30,311][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [09/29 15:54:30,647][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [09/29 15:54:30,703][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/getOffInfo
+INFO  [09/29 15:54:30,708][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA001",
+  "merchantNo": "",
+  "deskId": "0000000001",
+  "languageCD": "jp",
+  "companyID": "000001",
+  "code_type": "code"
+}
+INFO  [09/29 15:54:30,740][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:54:30,741][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:54:30,760][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [09/29 15:54:30,991][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:54:31,034][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [09/29 15:54:31,144][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [09/29 15:54:31,190][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1360, parentControl.Size.Height:728
+INFO  [09/29 15:54:31,580][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:1136363
+INFO  [09/29 15:54:32,016][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:54:32,017][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:54:32,025][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:54:33,071][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:54:33,072][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:54:33,078][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:54:34,115][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:54:34,115][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:54:34,122][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:54:35,153][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:54:35,160][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:54:35,169][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:54:36,219][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:54:36,223][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:54:36,230][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:54:37,257][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:54:37,258][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:54:37,265][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:54:38,288][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:54:38,289][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:54:38,296][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:54:39,321][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:54:39,322][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:54:39,329][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:54:40,371][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:54:40,372][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:54:40,381][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:54:41,406][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:54:41,407][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:54:41,416][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:54:42,435][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:54:42,436][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:54:42,443][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:54:43,465][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:54:43,466][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:54:43,473][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:54:44,493][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:54:44,494][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:54:44,502][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:54:45,528][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:54:45,530][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:54:45,538][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:54:46,571][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:54:46,573][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:54:46,583][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:54:47,614][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:54:47,615][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:54:47,623][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:54:48,652][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:54:48,653][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:54:48,660][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:54:49,696][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:54:49,697][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:54:49,705][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:54:50,732][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:54:50,733][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:54:50,740][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:54:51,769][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:54:51,770][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:54:51,778][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:54:52,812][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:54:52,813][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:54:52,821][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:54:53,852][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:54:53,853][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:54:53,861][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:54:54,884][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:54:54,885][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:54:54,894][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:54:55,929][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:54:55,930][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:54:55,939][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:54:56,964][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:54:56,966][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:54:56,974][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:54:58,030][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:54:58,033][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:54:58,041][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:54:59,070][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:54:59,074][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:54:59,082][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:55:00,103][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:55:00,104][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:55:00,111][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:55:01,134][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:55:01,135][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:55:01,142][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:55:02,165][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:55:02,165][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:55:02,172][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:55:03,195][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:55:03,196][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:55:03,202][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:55:04,229][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:55:04,230][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:55:04,237][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:55:05,262][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:55:05,263][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:55:05,271][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:55:06,293][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:55:06,294][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:55:06,301][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:55:07,325][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:55:07,326][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:55:07,334][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:55:07,629][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/getOffInfo
+INFO  [09/29 15:55:07,630][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA001",
+  "merchantNo": "",
+  "deskId": "0000000001",
+  "languageCD": "jp",
+  "companyID": "000001",
+  "code_type": "bin"
+}
+INFO  [09/29 15:55:08,341][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:55:08,342][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:55:08,352][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:55:08,670][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:985000
+INFO  [09/29 15:55:09,381][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:55:09,382][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:55:09,390][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:55:10,409][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:55:10,410][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:55:10,417][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:55:11,436][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:55:11,437][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:55:11,444][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:55:12,466][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:55:12,467][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:55:12,474][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:55:13,490][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:55:13,492][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:55:13,499][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:55:14,517][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:55:14,518][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:55:14,526][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:55:15,546][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:55:15,547][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:55:15,554][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:55:16,574][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:55:16,575][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:55:16,582][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:55:17,599][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:55:17,601][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:55:17,609][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:55:18,640][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:55:18,641][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:55:18,649][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:55:19,669][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:55:19,670][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:55:19,678][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:55:20,703][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:55:20,704][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:55:20,711][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:55:21,719][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:55:21,720][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:55:21,728][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:55:22,735][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:55:22,736][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:55:22,743][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:55:23,751][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:55:23,752][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:55:23,759][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:55:24,767][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:55:24,768][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:55:24,776][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:55:25,783][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:55:25,784][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:55:25,791][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:55:26,798][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:55:26,798][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:55:26,806][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:55:27,813][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:55:27,814][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:55:27,821][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:55:28,829][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:55:28,830][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:55:28,838][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:55:29,845][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:55:29,846][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:55:29,853][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:55:30,862][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:55:30,863][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:55:30,870][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:55:31,879][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:55:31,880][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:55:31,887][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:55:32,893][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:55:32,894][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:55:32,901][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:55:33,911][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:55:33,912][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:55:33,920][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:55:34,927][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:55:34,928][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:55:34,936][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:55:35,944][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:55:35,945][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:55:35,952][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:55:36,959][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:55:36,960][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:55:36,967][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:55:37,975][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:55:37,976][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:55:37,983][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:55:38,994][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:55:38,995][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:55:39,003][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:55:40,010][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:55:40,011][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:55:40,018][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:55:41,026][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:55:41,027][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:55:41,035][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:55:42,042][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:55:42,042][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:55:42,050][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:55:43,058][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:55:43,059][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:55:43,066][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:55:44,073][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:55:44,074][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:55:44,085][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:55:45,093][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:55:45,094][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:55:45,101][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:55:46,111][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:55:46,111][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:55:46,118][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:55:47,127][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:55:47,127][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:55:47,135][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:55:48,145][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:55:48,146][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:55:48,154][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:55:49,163][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:55:49,164][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:55:49,170][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:55:50,181][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:55:50,182][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:55:50,188][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:55:51,196][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:55:51,197][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:55:51,205][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:55:52,214][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:55:52,215][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:55:52,222][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:55:53,234][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:55:53,235][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:55:53,242][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:55:54,249][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:55:54,250][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:55:54,257][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:55:55,268][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:55:55,269][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:55:55,276][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:55:56,284][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:55:56,285][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:55:56,293][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:55:57,303][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:55:57,304][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:55:57,311][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:55:58,319][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:55:58,319][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:55:58,326][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:55:59,335][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:55:59,336][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:55:59,342][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:56:00,354][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:56:00,355][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:56:00,362][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:56:01,371][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:56:01,371][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:56:01,379][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:56:02,385][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:56:02,386][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:56:02,394][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:56:03,401][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:56:03,402][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:56:03,409][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:56:04,417][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:56:04,418][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:56:04,425][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:56:05,432][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:56:05,432][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:56:05,440][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:56:06,448][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:56:06,449][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:56:06,456][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:56:07,465][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:56:07,466][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:56:07,473][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:56:08,481][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:56:08,482][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:56:08,489][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:56:09,500][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:56:09,501][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:56:09,510][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:56:10,523][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:56:10,524][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:56:10,531][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:56:11,539][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:56:11,540][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:56:11,547][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:56:12,573][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:56:12,574][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:56:12,582][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:56:13,589][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:56:13,590][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:56:13,597][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:56:14,605][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:56:14,606][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:56:14,614][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:56:15,621][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:56:15,622][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:56:15,637][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:56:16,646][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:56:16,647][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:56:16,654][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:56:17,661][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:56:17,661][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:56:17,669][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:56:18,676][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:56:18,677][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:56:18,684][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:56:19,692][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:56:19,692][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:56:19,699][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:56:20,707][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:56:20,708][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:56:20,723][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:56:21,731][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:56:21,732][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:56:21,740][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:56:22,748][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:56:22,749][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:56:22,756][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:56:23,764][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:56:23,765][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:56:23,774][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:56:24,783][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:56:24,784][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:56:24,791][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:56:25,798][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:56:25,799][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:56:25,806][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:56:26,814][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:56:26,815][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:56:26,822][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:56:27,831][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:56:27,832][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:56:27,839][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:56:28,849][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:56:28,850][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:56:28,858][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:56:29,868][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:56:29,869][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:56:29,876][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:56:30,885][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:56:30,886][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:56:30,893][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:56:31,913][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:56:31,914][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:56:31,921][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:56:32,932][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:56:32,932][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:56:32,940][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:56:33,948][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:56:33,949][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:56:33,956][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:56:34,964][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:56:34,964][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:56:34,972][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:56:35,982][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:56:35,984][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:56:35,991][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:56:37,000][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:56:37,003][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:56:37,010][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:56:38,019][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:56:38,020][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:56:38,027][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:56:39,035][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:56:39,036][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:56:39,044][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:56:40,053][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:56:40,054][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:56:40,061][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:56:41,069][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:56:41,070][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:56:41,092][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:56:42,106][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:56:42,107][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:56:42,115][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:56:43,121][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:56:43,122][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:56:43,129][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:56:44,136][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:56:44,137][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:56:44,144][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:56:45,151][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:56:45,153][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:56:45,161][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:56:46,173][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:56:46,174][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:56:46,182][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:56:47,190][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:56:47,191][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:56:47,198][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:56:48,204][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:56:48,205][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:56:48,212][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:56:49,220][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:56:49,221][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:56:49,238][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:56:50,245][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:56:50,246][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:56:50,253][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:56:51,261][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:56:51,262][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:56:51,269][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:56:52,281][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:56:52,281][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:56:52,289][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:56:53,296][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:56:53,297][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:56:53,304][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:56:54,312][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:56:54,312][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:56:54,319][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:56:55,328][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:56:55,329][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:56:55,336][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:56:56,345][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:56:56,346][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:56:56,353][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:56:57,361][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:56:57,362][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:56:57,369][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:56:58,378][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:56:58,379][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:56:58,386][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:56:59,397][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:56:59,398][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:56:59,405][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:57:00,413][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:57:00,414][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:57:00,421][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:57:01,431][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:57:01,432][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:57:01,439][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:57:02,447][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:57:02,448][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:57:02,455][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:57:03,462][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:57:03,463][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:57:03,470][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:57:04,482][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:57:04,482][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:57:04,490][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:57:05,496][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:57:05,497][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:57:05,504][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:57:06,513][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:57:06,514][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:57:06,521][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:57:07,529][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:57:07,530][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:57:07,538][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:57:08,545][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:57:08,546][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:57:08,553][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:57:09,561][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:57:09,562][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:57:09,569][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:57:10,577][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:57:10,577][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:57:10,584][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:57:11,613][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:57:11,626][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:57:11,634][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:57:12,684][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:57:12,684][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:57:12,716][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:57:13,723][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:57:13,724][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:57:13,731][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:57:14,738][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:57:14,739][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:57:14,746][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:57:15,756][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:57:15,757][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:57:15,766][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:57:16,774][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:57:16,775][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:57:16,782][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:57:17,789][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:57:17,790][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:57:17,797][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:57:18,805][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:57:18,805][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:57:18,813][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:57:19,820][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:57:19,821][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:57:19,828][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:57:20,836][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:57:20,837][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:57:20,844][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:57:21,852][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:57:21,853][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:57:21,860][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:57:22,871][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:57:22,871][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:57:22,878][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:57:23,890][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:57:23,891][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:57:23,898][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:57:24,907][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:57:24,908][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:57:24,915][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:57:25,922][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:57:25,923][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:57:25,930][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:57:26,938][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:57:26,939][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:57:26,946][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:57:36,587][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:557, parentControl.Size.Height:327
+INFO  [09/29 15:57:46,784][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/offLogin
+INFO  [09/29 15:57:46,789][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA001",
+  "passWord": "gtf12345",
+  "openDate": "20170929",
+  "languageCD": "jp",
+  "companyID": "000001"
+}
+INFO  [09/29 15:57:46,940][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:145
+INFO  [09/29 15:57:47,063][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :start
+INFO  [09/29 15:57:47,065][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/getOffInfo
+INFO  [09/29 15:57:47,066][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA001",
+  "merchantNo": "",
+  "deskId": "0000000001",
+  "languageCD": "jp",
+  "companyID": "000001",
+  "code_type": "merchant"
+}
+INFO  [09/29 15:57:47,166][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:131467
+INFO  [09/29 15:57:47,919][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :merchant
+INFO  [09/29 15:57:47,922][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/getOffInfo
+INFO  [09/29 15:57:47,922][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA001",
+  "merchantNo": "",
+  "deskId": "0000000001",
+  "languageCD": "jp",
+  "companyID": "000001",
+  "code_type": "item"
+}
+INFO  [09/29 15:57:47,979][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:9399
+INFO  [09/29 15:57:48,310][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :item
+INFO  [09/29 15:57:48,312][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/getOffInfo
+INFO  [09/29 15:57:48,312][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA001",
+  "merchantNo": "",
+  "deskId": "0000000001",
+  "languageCD": "jp",
+  "companyID": "000001",
+  "code_type": "taxoffice"
+}
+INFO  [09/29 15:57:48,365][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:20200
+INFO  [09/29 15:57:48,666][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :taxoffice
+INFO  [09/29 15:57:48,668][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/getOffInfo
+INFO  [09/29 15:57:48,668][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA001",
+  "merchantNo": "",
+  "deskId": "0000000001",
+  "languageCD": "jp",
+  "companyID": "000001",
+  "code_type": "ads"
+}
+INFO  [09/29 15:57:48,697][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:45
+INFO  [09/29 15:57:48,698][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :ads
+INFO  [09/29 15:57:49,415][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [09/29 15:57:49,716][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [09/29 15:57:49,787][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/getOffInfo
+INFO  [09/29 15:57:49,790][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA001",
+  "merchantNo": "",
+  "deskId": "0000000001",
+  "languageCD": "jp",
+  "companyID": "000001",
+  "code_type": "code"
+}
+INFO  [09/29 15:57:49,816][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:57:49,817][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:57:49,830][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [09/29 15:57:49,937][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:57:50,087][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [09/29 15:57:50,201][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [09/29 15:57:50,246][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1360, parentControl.Size.Height:728
+INFO  [09/29 15:57:50,538][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:1136363
+INFO  [09/29 15:57:50,966][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:57:50,967][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:57:50,974][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:57:51,999][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:57:52,001][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:57:52,011][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:57:53,039][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:57:53,040][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:57:53,047][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:57:54,074][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:57:54,075][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:57:54,083][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:57:55,115][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:57:55,117][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:57:55,125][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:57:56,158][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:57:56,159][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:57:56,167][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 15:59:15,733][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 15:59:15,734][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 15:59:15,745][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:01:08,420][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:01:08,431][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:01:08,462][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:01:09,491][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:01:09,492][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:01:09,500][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:01:10,528][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:01:10,529][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:01:10,536][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:01:11,567][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:01:11,568][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:01:11,576][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:01:12,599][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:01:12,600][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:01:12,608][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:01:13,633][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:01:13,634][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:01:13,642][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:01:14,667][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:01:14,668][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:01:14,679][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:01:15,703][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:01:15,704][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:01:15,712][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:01:16,736][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:01:16,736][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:01:16,743][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:01:17,761][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:01:17,762][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:01:17,769][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:01:18,790][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:01:18,790][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:01:18,798][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:01:19,821][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:01:19,822][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:01:19,829][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:01:20,850][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:01:20,851][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:01:20,858][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:01:21,880][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:01:21,881][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:01:21,888][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:01:22,948][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:01:22,949][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:01:22,962][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:01:23,997][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:01:23,997][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:01:24,005][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:01:25,035][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:01:25,036][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:01:25,044][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:01:26,073][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:01:26,074][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:01:26,082][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:01:27,110][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:01:27,111][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:01:27,119][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:01:28,143][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:01:28,144][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:01:28,152][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:01:29,170][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:01:29,171][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:01:29,178][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:01:30,202][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:01:30,203][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:01:30,210][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:01:31,231][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:01:31,231][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:01:31,238][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:01:32,269][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:01:32,270][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:01:32,277][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:01:33,303][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:01:33,303][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:01:33,310][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:01:34,333][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:01:34,334][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:01:34,341][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:01:35,374][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:01:35,376][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:01:35,385][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:01:35,580][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/getOffInfo
+INFO  [09/29 16:01:35,581][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA001",
+  "merchantNo": "",
+  "deskId": "0000000001",
+  "languageCD": "jp",
+  "companyID": "000001",
+  "code_type": "bin"
+}
+INFO  [09/29 16:01:36,396][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:01:36,396][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:01:36,405][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:01:36,615][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:985000
+INFO  [09/29 16:01:37,425][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:01:37,426][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:01:37,433][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:01:38,457][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:01:38,458][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:01:38,466][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:01:39,483][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:01:39,483][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:01:39,490][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:01:40,520][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:01:40,521][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:01:40,549][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:01:41,571][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:01:41,572][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:01:41,579][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:01:42,603][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:01:42,604][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:01:42,612][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:01:43,641][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:01:43,642][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:01:43,650][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:01:44,670][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:01:44,671][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:01:44,679][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:01:45,706][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:01:45,707][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:01:45,715][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:01:46,733][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:01:46,734][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:01:46,742][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:01:47,768][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:01:47,769][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:01:47,776][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:01:48,793][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:01:48,794][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:01:48,802][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:01:49,820][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:01:49,821][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:01:49,829][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:01:50,836][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:01:50,837][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:01:50,844][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:01:51,852][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:01:51,853][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:01:51,860][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:01:52,868][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:01:52,869][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:01:52,876][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:01:53,884][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:01:53,885][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:01:53,893][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:01:54,901][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:01:54,902][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:01:54,915][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:01:55,926][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:01:55,927][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:01:55,934][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:01:56,945][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:01:56,945][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:01:56,952][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:01:57,963][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:01:57,964][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:01:57,971][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:01:58,980][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:01:58,981][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:01:59,003][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:02:00,015][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:02:00,016][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:02:00,023][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:02:01,031][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:02:01,032][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:02:01,046][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:02:02,056][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:02:02,057][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:02:02,064][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:02:03,075][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:02:03,076][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:02:03,084][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:02:04,103][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:02:04,104][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:02:04,111][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:02:05,129][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:02:05,131][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:02:05,140][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:02:06,152][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:02:06,153][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:02:06,160][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:02:07,168][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:02:07,169][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:02:07,176][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:02:08,184][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:02:08,185][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:02:08,192][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:02:09,199][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:02:09,199][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:02:09,206][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:02:10,216][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:02:10,217][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:02:10,224][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:02:11,232][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:02:11,233][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:02:11,240][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:02:12,249][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:02:12,250][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:02:12,257][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:02:13,275][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:02:13,276][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:02:13,284][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:02:14,294][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:02:14,295][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:02:14,302][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:02:15,325][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:02:15,326][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:02:15,335][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:02:16,343][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:02:16,344][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:02:16,351][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:02:17,359][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:02:17,360][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:02:17,367][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:02:18,378][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:02:18,379][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:02:18,386][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:02:19,394][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:02:19,394][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:02:19,402][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:02:20,410][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:02:20,410][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:02:20,418][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:02:21,426][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:02:21,427][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:02:21,434][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:02:22,443][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:02:22,444][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:02:22,451][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:02:23,460][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:02:23,462][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:02:23,469][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:02:24,476][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:02:24,477][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:02:24,484][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:02:25,493][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:02:25,494][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:02:25,501][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:02:26,508][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:02:26,509][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:02:26,516][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:02:27,524][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:02:27,525][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:02:27,532][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:02:28,542][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:02:28,543][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:02:28,550][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:02:29,560][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:02:29,560][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:02:29,567][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:02:30,581][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:02:30,584][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:02:30,592][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:02:31,606][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:02:31,614][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:02:31,629][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:02:32,643][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:02:32,644][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:02:32,652][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:02:33,664][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:02:33,665][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:02:33,672][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:02:34,716][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:02:34,716][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:02:34,727][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:02:35,759][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:02:35,760][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:02:35,768][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:10:50,887][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:557, parentControl.Size.Height:327
+INFO  [09/29 16:10:58,694][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/offLogin
+INFO  [09/29 16:10:58,697][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA001",
+  "passWord": "gtf12345",
+  "openDate": "20170929",
+  "languageCD": "jp",
+  "companyID": "000001"
+}
+INFO  [09/29 16:10:58,831][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:145
+INFO  [09/29 16:10:58,945][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :start
+INFO  [09/29 16:10:58,948][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/getOffInfo
+INFO  [09/29 16:10:58,949][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA001",
+  "merchantNo": "",
+  "deskId": "0000000001",
+  "languageCD": "jp",
+  "companyID": "000001",
+  "code_type": "merchant"
+}
+INFO  [09/29 16:10:59,096][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:131467
+INFO  [09/29 16:10:59,935][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :merchant
+INFO  [09/29 16:10:59,937][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/getOffInfo
+INFO  [09/29 16:10:59,938][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA001",
+  "merchantNo": "",
+  "deskId": "0000000001",
+  "languageCD": "jp",
+  "companyID": "000001",
+  "code_type": "item"
+}
+INFO  [09/29 16:11:00,000][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:9399
+INFO  [09/29 16:11:00,347][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :item
+INFO  [09/29 16:11:00,348][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/getOffInfo
+INFO  [09/29 16:11:00,349][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA001",
+  "merchantNo": "",
+  "deskId": "0000000001",
+  "languageCD": "jp",
+  "companyID": "000001",
+  "code_type": "taxoffice"
+}
+INFO  [09/29 16:11:00,408][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:20200
+INFO  [09/29 16:11:00,755][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :taxoffice
+INFO  [09/29 16:11:00,757][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/getOffInfo
+INFO  [09/29 16:11:00,758][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA001",
+  "merchantNo": "",
+  "deskId": "0000000001",
+  "languageCD": "jp",
+  "companyID": "000001",
+  "code_type": "ads"
+}
+INFO  [09/29 16:11:00,784][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:45
+INFO  [09/29 16:11:00,784][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :ads
+INFO  [09/29 16:11:01,428][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [09/29 16:11:01,707][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [09/29 16:11:01,811][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [09/29 16:11:01,820][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/getOffInfo
+INFO  [09/29 16:11:01,827][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA001",
+  "merchantNo": "",
+  "deskId": "0000000001",
+  "languageCD": "jp",
+  "companyID": "000001",
+  "code_type": "code"
+}
+INFO  [09/29 16:11:01,849][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:11:01,918][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:11:01,931][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:11:02,030][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [09/29 16:11:02,141][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [09/29 16:11:02,182][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1360, parentControl.Size.Height:728
+INFO  [09/29 16:11:02,554][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:1136363
+INFO  [09/29 16:11:02,960][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:11:02,961][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:11:02,969][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:11:03,994][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:11:03,995][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:11:04,002][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:11:05,029][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:11:05,029][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:11:05,036][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:11:06,062][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:11:06,063][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:11:06,070][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:11:07,109][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:11:07,110][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:11:07,118][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:11:08,158][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:11:08,159][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:11:08,167][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:11:09,189][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:11:09,190][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:11:09,197][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:11:10,219][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:11:10,220][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:11:10,228][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:11:11,267][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:11:11,268][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:11:11,275][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:11:12,305][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:11:12,310][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:11:12,318][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:11:13,347][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:11:13,348][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:11:13,356][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:11:14,389][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:11:14,390][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:11:14,398][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:11:15,427][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:11:15,428][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:11:15,436][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:11:16,459][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:11:16,460][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:11:16,468][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:11:17,495][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:11:17,496][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:11:17,505][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:11:18,531][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:11:18,532][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:11:18,540][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:11:19,560][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:11:19,561][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:11:19,568][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:11:20,586][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:11:20,587][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:11:20,595][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:11:21,612][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:11:21,613][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:11:21,620][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:11:22,647][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:11:22,648][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:11:22,655][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:11:23,682][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:11:23,683][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:11:23,690][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:11:24,715][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:11:24,716][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:11:24,723][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:11:25,765][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:11:25,767][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:11:25,774][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:11:26,803][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:11:26,804][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:11:26,811][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:11:27,840][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:11:27,841][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:11:27,848][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:11:28,889][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:11:28,891][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:11:28,900][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:11:29,919][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:11:29,920][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:11:29,934][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:11:30,966][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:11:30,968][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:11:30,975][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:11:31,998][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:11:31,999][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:11:32,006][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:11:33,033][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:11:33,034][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:11:33,042][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:11:34,071][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:11:34,073][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:11:34,081][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:11:35,112][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:11:35,115][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:11:35,124][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:11:36,145][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:11:36,146][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:11:36,155][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:11:37,188][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:11:37,189][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:11:37,199][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:11:37,974][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/getOffInfo
+INFO  [09/29 16:11:37,975][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA001",
+  "merchantNo": "",
+  "deskId": "0000000001",
+  "languageCD": "jp",
+  "companyID": "000001",
+  "code_type": "bin"
+}
+INFO  [09/29 16:11:38,208][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:11:38,209][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:11:38,223][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:11:38,993][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:985000
+INFO  [09/29 16:11:39,244][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:11:39,245][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:11:39,252][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:11:40,274][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:11:40,274][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:11:40,282][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:11:41,299][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:11:41,300][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:11:41,307][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:11:42,326][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:11:42,327][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:11:42,335][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:11:43,354][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:11:43,355][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:11:43,362][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:11:44,379][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:11:44,380][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:11:44,388][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:11:45,412][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:11:45,413][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:11:45,421][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:11:46,442][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:11:46,443][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:11:46,451][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:11:47,467][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:11:47,468][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:11:47,475][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:11:48,500][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:11:48,501][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:11:48,508][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:11:49,527][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:11:49,528][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:11:49,535][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:11:50,560][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:11:50,560][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:11:50,568][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:11:51,585][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:11:51,586][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:
+INFO  [09/29 16:11:51,593][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:0
+INFO  [09/29 16:12:25,893][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:557, parentControl.Size.Height:327
+INFO  [09/29 16:12:33,459][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/offLogin
+INFO  [09/29 16:12:33,462][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA001",
+  "passWord": "gtf12345",
+  "openDate": "20170929",
+  "languageCD": "jp",
+  "companyID": "000001"
+}
+INFO  [09/29 16:12:33,600][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:145
+INFO  [09/29 16:12:33,711][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :start
+INFO  [09/29 16:12:33,713][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/getOffInfo
+INFO  [09/29 16:12:33,715][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA001",
+  "merchantNo": "",
+  "deskId": "0000000001",
+  "languageCD": "jp",
+  "companyID": "000001",
+  "code_type": "merchant"
+}
+INFO  [09/29 16:12:33,858][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:131467
+INFO  [09/29 16:12:34,677][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :merchant
+INFO  [09/29 16:12:34,680][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/getOffInfo
+INFO  [09/29 16:12:34,681][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA001",
+  "merchantNo": "",
+  "deskId": "0000000001",
+  "languageCD": "jp",
+  "companyID": "000001",
+  "code_type": "item"
+}
+INFO  [09/29 16:12:34,740][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:9399
+INFO  [09/29 16:12:35,059][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :item
+INFO  [09/29 16:12:35,061][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/getOffInfo
+INFO  [09/29 16:12:35,062][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA001",
+  "merchantNo": "",
+  "deskId": "0000000001",
+  "languageCD": "jp",
+  "companyID": "000001",
+  "code_type": "taxoffice"
+}
+INFO  [09/29 16:12:35,117][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:20200
+INFO  [09/29 16:12:35,488][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :taxoffice
+INFO  [09/29 16:12:35,490][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/getOffInfo
+INFO  [09/29 16:12:35,491][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA001",
+  "merchantNo": "",
+  "deskId": "0000000001",
+  "languageCD": "jp",
+  "companyID": "000001",
+  "code_type": "ads"
+}
+INFO  [09/29 16:12:35,516][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:45
+INFO  [09/29 16:12:35,517][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :ads
+INFO  [09/29 16:12:36,177][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [09/29 16:12:36,491][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [09/29 16:12:36,548][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/getOffInfo
+INFO  [09/29 16:12:36,552][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA001",
+  "merchantNo": "",
+  "deskId": "0000000001",
+  "languageCD": "jp",
+  "companyID": "000001",
+  "code_type": "code"
+}
+INFO  [09/29 16:12:36,584][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [09/29 16:12:36,614][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "slipList": [
+    {
+      "buyer_name": "GTFPASS TEST",
+      "passport_serial_no": "E9999999",
+      "nationality_code": "CHN",
+      "gender_code": "M",
+      "buyer_birth": "19100101",
+      "pass_expirydt": "20300101",
+      "input_way_code": "02",
+      "residence_no": "00000001",
+      "entrydt": "20170925",
+      "passport_type": "01",
+      "slip_no": "20000517092915514664",
+      "merchant_no": "00000029",
+      "out_div_code": "00",
+      "refund_way_code": "01",
+      "slip_status_code": "02",
+      "tml_id": "00005",
+      "refund_cardno": "",
+      "refund_card_code": "",
+      "total_slipseq": "",
+      "tax_proc_time_code": "02",
+      "unikey": "00005049",
+      "saledt": "17/09/29 15:51:46",
+      "refunddt": "17/09/29 15:51:53",
+      "userId": "FUKUOKA002",
+      "merchantNo": "00000029",
+      "deskId": "0000000001",
+      "companyID": "000001",
+      "total_excomm_in_tax_sale_amt": "15000",
+      "total_comm_in_tax_sale_amt": "0",
+      "comm": "",
+      "total_comm_sale_amt": "0",
+      "total_comm_tax_amt": "0",
+      "total_comm_refund_amt": "0",
+      "total_comm_fee_amt": "0",
+      "excomm": "A0001",
+      "total_excomm_sale_amt": "13889",
+      "total_excomm_tax_amt": "1111",
+      "total_excomm_refund_amt": "902",
+      "total_excomm_fee_amt": "209",
+      "remit_amt": "902",
+      "saleGoodsList": [
+        {
+          "slip_no": "20000517092915514664",
+          "sale_seq": "1",
+          "rec_no": "G0000002920170929155135",
+          "tax_amt": "1111",
+          "refund_amt": "902",
+          "fee_amt": "209",
+          "goods_items_code": "A0001",
+          "goods_group_code": "B0030",
+          "goods_division": "C0167",
+          "tax_proc_time_code": "02",
+          "goods_amt": "15000",
+          "tax_point_proc_code": "04",
+          "goods_qty": "1",
+          "goods_unit_price": "15000",
+          "goods_name": "ª½ªÎöâ",
+          "goods_tax_code": "SCT",
+          "same_unit_saleAmt": "Y",
+          "worker_id": "FUKUOKA001"
+        }
+      ]
+    }
+  ],
+  "userId": "FUKUOKA001",
+  "companyID": "000001",
+  "languageCD": "jp",
+  "merchantNo": "",
+  "deskId": "0000000001"
+}
+INFO  [09/29 16:12:36,630][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [09/29 16:12:37,310][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:1136363
+INFO  [09/29 16:12:37,581][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:14
+INFO  [09/29 16:12:37,840][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [09/29 16:12:37,962][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [09/29 16:12:38,057][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1360, parentControl.Size.Height:728
+INFO  [09/29 16:12:56,223][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:557, parentControl.Size.Height:327
+INFO  [09/29 16:13:07,601][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:557, parentControl.Size.Height:327

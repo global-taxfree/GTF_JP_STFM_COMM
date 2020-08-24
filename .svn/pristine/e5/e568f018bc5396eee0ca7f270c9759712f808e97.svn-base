@@ -1,0 +1,18 @@
+INFO  [01/23 11:29:05,682][GTF_STFM_COMM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:557, parentControl.Size.Height:327
+INFO  [01/23 11:29:11,444][GTF_STFM_COMM.Screen.Login.BTN_LOGIN_Click] - :start
+INFO  [01/23 11:29:11,523][GTF_STFM_COMM.Screen.Login.BTN_LOGIN_Click] - :merchant
+INFO  [01/23 11:29:12,018][GTF_STFM_COMM.Screen.Login.BTN_LOGIN_Click] - :item
+INFO  [01/23 11:29:12,522][GTF_STFM_COMM.Screen.Login.BTN_LOGIN_Click] - :taxoffice
+INFO  [01/23 11:29:12,552][GTF_STFM_COMM.Screen.Login.BTN_LOGIN_Click] - :ads
+INFO  [01/23 11:29:13,020][GTF_STFM_COMM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [01/23 11:29:13,238][GTF_STFM_COMM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [01/23 11:29:13,312][GTF_STFM_COMM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [01/23 11:29:13,396][GTF_STFM_COMM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [01/23 11:29:13,549][GTF_STFM_COMM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [01/23 11:29:13,644][GTF_STFM_COMM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [01/23 11:29:13,721][GTF_STFM_COMM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [01/23 11:29:13,748][GTF_STFM_COMM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1360, parentControl.Size.Height:728
+INFO  [01/23 11:29:21,854][GTF_STFM_COMM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1100, parentControl.Size.Height:630
+DEBUG [01/23 11:29:22,192][GTF_STFM_COMM.Screen.TrxnDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 1
+DEBUG [01/23 11:29:22,252][GTF_STFM_COMM.Screen.TrxnDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 2
+DEBUG [01/23 11:29:22,704][GTF_STFM_COMM.Screen.TrxnDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 3

@@ -1,0 +1,9 @@
+DEBUG [09/11 10:58:35,948][GTF_STFM_COMM.Screen.SlipDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 1
+DEBUG [09/11 10:58:35,972][GTF_STFM_COMM.Screen.SlipDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 2
+DEBUG [09/11 10:58:36,545][GTF_STFM_COMM.Screen.SlipDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 3
+DEBUG [09/11 11:18:14,362][GTF_STFM_COMM.Screen.SlipDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 1
+DEBUG [09/11 11:18:14,385][GTF_STFM_COMM.Screen.SlipDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 2
+DEBUG [09/11 11:18:14,924][GTF_STFM_COMM.Screen.SlipDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 3
+DEBUG [09/11 11:18:21,943][GTF_STFM_COMM.Screen.TrxnDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 1
+DEBUG [09/11 11:18:22,004][GTF_STFM_COMM.Screen.TrxnDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 2
+DEBUG [09/11 11:18:22,564][GTF_STFM_COMM.Screen.TrxnDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 3

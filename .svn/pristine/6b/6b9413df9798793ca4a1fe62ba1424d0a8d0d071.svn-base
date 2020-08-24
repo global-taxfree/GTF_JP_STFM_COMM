@@ -1,0 +1,118 @@
+INFO  [08/21 10:10:26,329][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/offLogin
+INFO  [08/21 10:10:26,333][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA002",
+  "passWord": "gtf12345",
+  "openDate": "20170821",
+  "languageCD": "jp",
+  "companyID": "000001"
+}
+INFO  [08/21 10:10:26,506][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:145
+INFO  [08/21 10:10:26,618][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/getOffInfo
+INFO  [08/21 10:10:26,619][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA002",
+  "merchantNo": "",
+  "deskId": "0000000001",
+  "languageCD": "jp",
+  "companyID": "000001",
+  "code_type": "merchant"
+}
+INFO  [08/21 10:10:26,736][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:131467
+INFO  [08/21 10:10:27,549][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/getOffInfo
+INFO  [08/21 10:10:27,550][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA002",
+  "merchantNo": "",
+  "deskId": "0000000001",
+  "languageCD": "jp",
+  "companyID": "000001",
+  "code_type": "item"
+}
+INFO  [08/21 10:10:27,602][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:9399
+INFO  [08/21 10:10:27,875][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/getOffInfo
+INFO  [08/21 10:10:27,876][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA002",
+  "merchantNo": "",
+  "deskId": "0000000001",
+  "languageCD": "jp",
+  "companyID": "000001",
+  "code_type": "taxoffice"
+}
+INFO  [08/21 10:10:27,925][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:20200
+INFO  [08/21 10:10:28,199][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/getOffInfo
+INFO  [08/21 10:10:28,199][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA002",
+  "merchantNo": "",
+  "deskId": "0000000001",
+  "languageCD": "jp",
+  "companyID": "000001",
+  "code_type": "ads"
+}
+INFO  [08/21 10:10:28,226][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:45
+INFO  [08/21 10:10:29,264][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/getOffInfo
+INFO  [08/21 10:10:29,271][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA002",
+  "merchantNo": "",
+  "deskId": "0000000001",
+  "languageCD": "jp",
+  "companyID": "000001",
+  "code_type": "code"
+}
+INFO  [08/21 10:10:29,928][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:1136363
+INFO  [08/21 10:11:02,988][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/offLogin
+INFO  [08/21 10:11:02,991][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA002",
+  "passWord": "gtf12345",
+  "openDate": "20170821",
+  "languageCD": "jp",
+  "companyID": "000001"
+}
+INFO  [08/21 10:11:03,130][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:145
+INFO  [08/21 10:11:03,252][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/getOffInfo
+INFO  [08/21 10:11:03,253][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA002",
+  "merchantNo": "",
+  "deskId": "0000000001",
+  "languageCD": "jp",
+  "companyID": "000001",
+  "code_type": "merchant"
+}
+INFO  [08/21 10:11:03,406][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:131467
+INFO  [08/21 10:11:04,360][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/getOffInfo
+INFO  [08/21 10:11:04,361][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA002",
+  "merchantNo": "",
+  "deskId": "0000000001",
+  "languageCD": "jp",
+  "companyID": "000001",
+  "code_type": "item"
+}
+INFO  [08/21 10:11:04,417][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:9399
+INFO  [08/21 10:11:04,708][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/getOffInfo
+INFO  [08/21 10:11:04,709][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA002",
+  "merchantNo": "",
+  "deskId": "0000000001",
+  "languageCD": "jp",
+  "companyID": "000001",
+  "code_type": "taxoffice"
+}
+INFO  [08/21 10:11:04,770][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:20200
+INFO  [08/21 10:11:05,111][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/getOffInfo
+INFO  [08/21 10:11:05,112][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA002",
+  "merchantNo": "",
+  "deskId": "0000000001",
+  "languageCD": "jp",
+  "companyID": "000001",
+  "code_type": "ads"
+}
+INFO  [08/21 10:11:05,138][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:45
+INFO  [08/21 10:11:06,222][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/getOffInfo
+INFO  [08/21 10:11:06,229][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA002",
+  "merchantNo": "",
+  "deskId": "0000000001",
+  "languageCD": "jp",
+  "companyID": "000001",
+  "code_type": "code"
+}
+INFO  [08/21 10:11:06,892][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:1136363

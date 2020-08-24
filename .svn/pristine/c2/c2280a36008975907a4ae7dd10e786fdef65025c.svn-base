@@ -1,0 +1,9 @@
+ERROR [07/31 15:08:22,956][GTF_STFM_COMM.Screen.IssuePanel.BTN_SUBMIT_Click] - 인덱스가 범위를 벗어났습니다. 인덱스는 음수가 아니어야 하며 컬렉션의 크기보다 작아야 합니다.
+매개 변수 이름: index
+ERROR [07/31 15:08:22,963][GTF_STFM_COMM.Screen.IssuePanel.BTN_SUBMIT_Click] -    위치: System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   위치: System.Collections.Generic.List`1.get_Item(Int32 index)
+   위치: Newtonsoft.Json.Linq.JContainer.GetItem(Int32 index)
+   위치: Newtonsoft.Json.Linq.JArray.get_Item(Int32 index)
+   위치: GTF_STFM_COMM.Screen.IssuePanel.BTN_SUBMIT_Click(Object sender, EventArgs e) 파일 C:\SVN\GTF_JP_STFM_COMM\GTF_STFM_COMM\Screen\IssuePanel.cs:줄 1386
+ERROR [07/31 15:10:52,184][GTF_STFM_COMM.Screen.IssuePanel.BTN_SUBMIT_Click] - 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+ERROR [07/31 15:10:52,190][GTF_STFM_COMM.Screen.IssuePanel.BTN_SUBMIT_Click] -    위치: GTF_STFM_COMM.Screen.IssuePanel.BTN_SUBMIT_Click(Object sender, EventArgs e) 파일 C:\SVN\GTF_JP_STFM_COMM\GTF_STFM_COMM\Screen\IssuePanel.cs:줄 1393

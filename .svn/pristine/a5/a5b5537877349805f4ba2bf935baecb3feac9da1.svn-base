@@ -1,0 +1,190 @@
+INFO  [04/26 15:09:05,235][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:557, parentControl.Size.Height:327
+INFO  [04/26 15:09:10,230][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :start
+INFO  [04/26 15:09:11,139][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :merchant
+INFO  [04/26 15:09:11,448][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :item
+INFO  [04/26 15:09:11,723][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :taxoffice
+INFO  [04/26 15:09:11,755][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :ads
+INFO  [04/26 15:09:12,272][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [04/26 15:09:12,460][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [04/26 15:09:12,528][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [04/26 15:09:12,608][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [04/26 15:09:12,861][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [04/26 15:09:12,891][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1360, parentControl.Size.Height:728
+ERROR [04/26 15:09:15,130][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/26 15:09:18,395][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/26 15:09:21,651][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/26 15:09:24,912][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/26 15:09:28,170][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/26 15:09:33,119][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/26 15:09:36,374][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/26 15:09:39,629][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/26 15:09:42,885][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/26 15:09:46,142][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/26 15:09:49,399][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/26 15:09:52,655][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+INFO  [04/26 15:09:55,733][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1100, parentControl.Size.Height:600
+ERROR [04/26 15:09:55,911][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/26 15:09:59,168][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/26 15:10:02,424][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/26 15:10:05,680][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/26 15:10:08,936][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/26 15:10:12,192][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/26 15:10:15,448][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/26 15:10:18,705][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/26 15:10:21,961][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/26 15:10:25,217][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/26 15:10:28,473][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/26 15:10:31,734][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/26 15:10:34,991][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/26 15:10:38,247][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/26 15:10:41,503][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/26 15:10:44,759][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/26 15:10:48,016][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/26 15:10:51,272][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/26 15:10:54,540][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/26 15:10:57,798][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/26 15:11:01,056][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/26 15:11:04,315][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/26 15:11:07,571][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/26 15:11:10,829][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/26 15:11:14,085][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/26 15:11:17,341][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/26 15:11:20,596][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/26 15:11:23,864][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/26 15:11:27,124][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/26 15:11:30,380][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/26 15:11:33,637][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+INFO  [04/26 15:19:52,339][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:557, parentControl.Size.Height:327
+INFO  [04/26 15:19:54,700][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :start
+INFO  [04/26 15:19:55,564][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :merchant
+INFO  [04/26 15:19:55,896][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :item
+INFO  [04/26 15:19:56,169][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :taxoffice
+INFO  [04/26 15:19:56,200][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :ads
+INFO  [04/26 15:19:56,646][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [04/26 15:19:56,872][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [04/26 15:19:56,936][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [04/26 15:19:57,014][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [04/26 15:19:57,189][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [04/26 15:19:57,211][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1360, parentControl.Size.Height:728
+ERROR [04/26 15:19:59,518][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/26 15:20:02,778][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+INFO  [04/26 15:20:31,810][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:557, parentControl.Size.Height:327
+INFO  [04/26 15:20:34,138][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :start
+INFO  [04/26 15:20:35,063][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :merchant
+INFO  [04/26 15:20:35,348][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :item
+INFO  [04/26 15:20:35,639][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :taxoffice
+INFO  [04/26 15:20:35,667][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :ads
+INFO  [04/26 15:20:36,149][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [04/26 15:20:36,373][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [04/26 15:20:36,438][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [04/26 15:20:36,524][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [04/26 15:20:36,619][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [04/26 15:20:36,650][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1360, parentControl.Size.Height:728
+ERROR [04/26 15:20:39,014][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/26 15:20:42,275][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/26 15:20:45,532][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+INFO  [04/26 15:24:34,348][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:557, parentControl.Size.Height:327
+INFO  [04/26 15:24:37,876][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :start
+INFO  [04/26 15:24:38,848][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :merchant
+INFO  [04/26 15:24:39,144][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :item
+INFO  [04/26 15:24:39,424][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :taxoffice
+INFO  [04/26 15:24:39,450][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :ads
+INFO  [04/26 15:24:39,899][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [04/26 15:24:40,135][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [04/26 15:24:40,205][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [04/26 15:24:40,300][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [04/26 15:24:40,466][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [04/26 15:24:40,499][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1360, parentControl.Size.Height:728
+ERROR [04/26 15:24:42,763][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+INFO  [04/26 15:24:56,123][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:557, parentControl.Size.Height:327
+INFO  [04/26 15:24:58,575][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :start
+INFO  [04/26 15:24:59,547][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :merchant
+INFO  [04/26 15:24:59,842][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :item
+INFO  [04/26 15:25:00,141][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :taxoffice
+INFO  [04/26 15:25:00,163][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :ads
+INFO  [04/26 15:25:00,593][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [04/26 15:25:00,804][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [04/26 15:25:00,873][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [04/26 15:25:00,956][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [04/26 15:25:01,053][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [04/26 15:25:01,074][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1360, parentControl.Size.Height:728
+ERROR [04/26 15:25:03,486][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/26 15:25:06,747][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+INFO  [04/26 15:26:54,171][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:557, parentControl.Size.Height:327
+INFO  [04/26 15:26:56,404][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :start
+INFO  [04/26 15:26:57,203][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :merchant
+INFO  [04/26 15:26:57,489][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :item
+INFO  [04/26 15:26:57,753][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :taxoffice
+INFO  [04/26 15:26:57,780][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :ads
+INFO  [04/26 15:26:58,214][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [04/26 15:26:58,424][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [04/26 15:26:58,492][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [04/26 15:26:58,564][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [04/26 15:26:58,669][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [04/26 15:26:58,690][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1360, parentControl.Size.Height:728
+ERROR [04/26 15:27:01,093][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/26 15:27:04,355][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/26 15:27:07,610][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+INFO  [04/26 15:27:11,938][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1100, parentControl.Size.Height:600
+ERROR [04/26 15:27:14,755][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+INFO  [04/26 15:27:15,377][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1100, parentControl.Size.Height:600
+ERROR [04/26 15:27:18,011][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/26 15:27:21,268][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/26 15:27:24,524][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/26 15:27:27,188][GTF_LocalDB.GTF_LocalDBManager.SelectTable] -    위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   위치: GTF_LocalDB.GTF_LocalDBManager.SelectTable(String strTableName, JObject jsonWhere) 파일 C:\SVN\GTF_JP_STFM\GTF_LocalDB\GTF_LocalDBManager.cs:줄 574
+ERROR [04/26 15:27:27,781][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/26 15:27:31,190][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/26 15:27:34,446][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/26 15:27:37,816][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+INFO  [04/26 15:27:41,641][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1100, parentControl.Size.Height:600
+ERROR [04/26 15:27:44,193][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+INFO  [04/26 15:27:45,262][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1100, parentControl.Size.Height:600
+ERROR [04/26 15:27:47,450][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/26 15:27:50,708][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/26 15:27:51,966][GTF_LocalDB.GTF_LocalDBManager.SelectTable] -    위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   위치: GTF_LocalDB.GTF_LocalDBManager.SelectTable(String strTableName, JObject jsonWhere) 파일 C:\SVN\GTF_JP_STFM\GTF_LocalDB\GTF_LocalDBManager.cs:줄 574
+ERROR [04/26 15:27:53,963][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/26 15:27:57,235][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/26 15:28:00,492][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/26 15:28:03,748][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/26 15:28:07,004][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/26 15:28:10,260][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+INFO  [04/26 15:29:06,743][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:557, parentControl.Size.Height:327
+INFO  [04/26 15:29:10,033][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :start
+INFO  [04/26 15:29:10,927][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :merchant
+INFO  [04/26 15:29:11,244][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :item
+INFO  [04/26 15:29:11,507][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :taxoffice
+INFO  [04/26 15:29:11,531][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :ads
+INFO  [04/26 15:29:11,981][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [04/26 15:29:12,186][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [04/26 15:29:12,250][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [04/26 15:29:12,320][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [04/26 15:29:12,429][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [04/26 15:29:12,450][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1360, parentControl.Size.Height:728
+ERROR [04/26 15:29:14,857][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/26 15:29:18,203][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/26 15:29:21,460][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/26 15:29:24,717][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/26 15:29:27,974][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/26 15:29:31,304][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/26 15:29:34,562][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/26 15:29:37,817][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/26 15:29:41,073][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/26 15:29:44,335][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/26 15:29:47,591][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/26 15:29:50,849][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/26 15:29:54,104][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/26 15:29:57,360][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/26 15:30:00,616][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+INFO  [04/26 15:30:32,293][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:557, parentControl.Size.Height:327

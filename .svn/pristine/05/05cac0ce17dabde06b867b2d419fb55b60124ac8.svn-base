@@ -1,0 +1,258 @@
+INFO  [10/31 15:23:49,965][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:557, parentControl.Size.Height:327
+INFO  [10/31 15:23:56,636][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/offLogin
+INFO  [10/31 15:23:56,642][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA002",
+  "passWord": "gtf12345",
+  "openDate": "20171031",
+  "languageCD": "jp",
+  "companyID": "000001"
+}
+INFO  [10/31 15:23:56,755][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:37
+INFO  [10/31 15:24:42,073][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/offLogin
+INFO  [10/31 15:24:42,081][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA002",
+  "passWord": "gtf12345",
+  "openDate": "20171031",
+  "languageCD": "jp",
+  "companyID": "000001"
+}
+INFO  [10/31 15:24:42,146][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:145
+INFO  [10/31 15:24:42,224][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :start
+INFO  [10/31 15:24:42,228][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/getOffInfo
+INFO  [10/31 15:24:42,229][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA002",
+  "merchantNo": "",
+  "deskId": "0000000001",
+  "languageCD": "jp",
+  "companyID": "000001",
+  "code_type": "merchant"
+}
+INFO  [10/31 15:24:42,373][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:131467
+INFO  [10/31 15:24:43,015][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :merchant
+INFO  [10/31 15:24:43,018][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/getOffInfo
+INFO  [10/31 15:24:43,019][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA002",
+  "merchantNo": "",
+  "deskId": "0000000001",
+  "languageCD": "jp",
+  "companyID": "000001",
+  "code_type": "item"
+}
+INFO  [10/31 15:24:43,080][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:9399
+INFO  [10/31 15:24:43,374][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :item
+INFO  [10/31 15:24:43,375][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/getOffInfo
+INFO  [10/31 15:24:43,376][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA002",
+  "merchantNo": "",
+  "deskId": "0000000001",
+  "languageCD": "jp",
+  "companyID": "000001",
+  "code_type": "taxoffice"
+}
+INFO  [10/31 15:24:43,433][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:20200
+INFO  [10/31 15:24:43,719][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :taxoffice
+INFO  [10/31 15:24:43,721][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/getOffInfo
+INFO  [10/31 15:24:43,721][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA002",
+  "merchantNo": "",
+  "deskId": "0000000001",
+  "languageCD": "jp",
+  "companyID": "000001",
+  "code_type": "ads"
+}
+INFO  [10/31 15:24:43,754][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:45
+INFO  [10/31 15:24:43,755][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :ads
+INFO  [10/31 15:24:44,264][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [10/31 15:24:44,470][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [10/31 15:24:44,531][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [10/31 15:24:44,611][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [10/31 15:24:44,777][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/getOffInfo
+INFO  [10/31 15:24:44,846][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA002",
+  "merchantNo": "",
+  "deskId": "0000000001",
+  "languageCD": "jp",
+  "companyID": "000001",
+  "code_type": "code"
+}
+INFO  [10/31 15:24:45,006][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [10/31 15:24:45,028][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1360, parentControl.Size.Height:728
+INFO  [10/31 15:24:45,590][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:1136363
+INFO  [10/31 15:24:56,509][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1100, parentControl.Size.Height:600
+INFO  [10/31 15:25:00,883][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1100, parentControl.Size.Height:600
+ERROR [10/31 15:25:11,591][GTF_LocalDB.GTF_LocalDBManager.SelectTable] -    위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   위치: GTF_LocalDB.GTF_LocalDBManager.SelectTable(String strTableName, JObject jsonWhere) 파일 C:\SVN\GTF_JP_STFM\GTF_LocalDB\GTF_LocalDBManager.cs:줄 551
+INFO  [10/31 15:25:15,211][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [10/31 15:25:15,212][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "slipList": [
+    {
+      "buyer_name": "GTFPASS TEST",
+      "passport_serial_no": "E9999999",
+      "nationality_code": "CHN",
+      "gender_code": "M",
+      "buyer_birth": "19100101",
+      "pass_expirydt": "20300101",
+      "input_way_code": "02",
+      "residence_no": "00000001",
+      "entrydt": "20171023",
+      "passport_type": "01",
+      "slip_no": "20000517103115251165",
+      "merchant_no": "00000029",
+      "out_div_code": "00",
+      "refund_way_code": "01",
+      "slip_status_code": "02",
+      "tml_id": "00005",
+      "refund_cardno": "",
+      "refund_card_code": "",
+      "total_slipseq": "",
+      "tax_proc_time_code": "02",
+      "unikey": "00005050",
+      "saledt": "17/10/31 15:25:11",
+      "refunddt": "17/10/31 15:25:15",
+      "userId": "FUKUOKA002",
+      "merchantNo": "00000029",
+      "deskId": "0000000001",
+      "companyID": "000001",
+      "total_excomm_in_tax_sale_amt": "15000",
+      "total_comm_in_tax_sale_amt": "0",
+      "comm": "",
+      "total_comm_sale_amt": "0",
+      "total_comm_tax_amt": "0",
+      "total_comm_refund_amt": "0",
+      "total_comm_fee_amt": "0",
+      "excomm": "A0001",
+      "total_excomm_sale_amt": "13889",
+      "total_excomm_tax_amt": "1111",
+      "total_excomm_refund_amt": "902",
+      "total_excomm_fee_amt": "209",
+      "remit_amt": "902",
+      "saleGoodsList": [
+        {
+          "slip_no": "20000517103115251165",
+          "sale_seq": "1",
+          "rec_no": "G0000002920171031152500",
+          "tax_amt": "1111",
+          "refund_amt": "902",
+          "fee_amt": "209",
+          "goods_items_code": "A0001",
+          "goods_group_code": "B0030",
+          "goods_division": "C0167",
+          "tax_proc_time_code": "02",
+          "goods_amt": "15000",
+          "tax_point_proc_code": "04",
+          "goods_qty": "1",
+          "goods_unit_price": "15000",
+          "goods_name": "その他",
+          "goods_tax_code": "SCT",
+          "same_unit_saleAmt": "Y",
+          "worker_id": "FUKUOKA002"
+        }
+      ]
+    }
+  ],
+  "userId": "FUKUOKA002",
+  "companyID": "000001",
+  "languageCD": "jp",
+  "merchantNo": "",
+  "deskId": "0000000001"
+}
+INFO  [10/31 15:25:16,058][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:14
+INFO  [10/31 15:25:19,061][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/getOffInfo
+INFO  [10/31 15:25:19,062][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA002",
+  "merchantNo": "",
+  "deskId": "0000000001",
+  "languageCD": "jp",
+  "companyID": "000001",
+  "code_type": "bin"
+}
+INFO  [10/31 15:25:20,068][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:985000
+INFO  [10/31 15:27:19,490][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1100, parentControl.Size.Height:600
+INFO  [10/31 15:27:24,991][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1100, parentControl.Size.Height:600
+ERROR [10/31 15:27:36,965][GTF_LocalDB.GTF_LocalDBManager.SelectTable] -    위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   위치: GTF_LocalDB.GTF_LocalDBManager.SelectTable(String strTableName, JObject jsonWhere) 파일 C:\SVN\GTF_JP_STFM\GTF_LocalDB\GTF_LocalDBManager.cs:줄 551
+INFO  [10/31 15:27:48,762][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/addOffSlipIssue
+INFO  [10/31 15:27:48,763][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "slipList": [
+    {
+      "buyer_name": "LEE WONGYU",
+      "passport_serial_no": "M71293013",
+      "nationality_code": "KOR",
+      "gender_code": "M",
+      "buyer_birth": "19840902",
+      "pass_expirydt": "20220723",
+      "input_way_code": "02",
+      "residence_no": "00000001",
+      "entrydt": "20171031",
+      "passport_type": "01",
+      "slip_no": "20000517103115273666",
+      "merchant_no": "00000029",
+      "out_div_code": "00",
+      "refund_way_code": "01",
+      "slip_status_code": "02",
+      "tml_id": "00005",
+      "refund_cardno": "",
+      "refund_card_code": "",
+      "total_slipseq": "",
+      "tax_proc_time_code": "02",
+      "unikey": "00005051",
+      "saledt": "17/10/31 15:27:36",
+      "refunddt": "17/10/31 15:27:48",
+      "userId": "FUKUOKA002",
+      "merchantNo": "00000029",
+      "deskId": "0000000001",
+      "companyID": "000001",
+      "total_excomm_in_tax_sale_amt": "15000",
+      "total_comm_in_tax_sale_amt": "0",
+      "comm": "",
+      "total_comm_sale_amt": "0",
+      "total_comm_tax_amt": "0",
+      "total_comm_refund_amt": "0",
+      "total_comm_fee_amt": "0",
+      "excomm": "A0001",
+      "total_excomm_sale_amt": "13889",
+      "total_excomm_tax_amt": "1111",
+      "total_excomm_refund_amt": "902",
+      "total_excomm_fee_amt": "209",
+      "remit_amt": "902",
+      "saleGoodsList": [
+        {
+          "slip_no": "20000517103115273666",
+          "sale_seq": "1",
+          "rec_no": "G0000002920171031152724",
+          "tax_amt": "1111",
+          "refund_amt": "902",
+          "fee_amt": "209",
+          "goods_items_code": "A0001",
+          "goods_group_code": "B0030",
+          "goods_division": "C0167",
+          "tax_proc_time_code": "02",
+          "goods_amt": "15000",
+          "tax_point_proc_code": "04",
+          "goods_qty": "1",
+          "goods_unit_price": "15000",
+          "goods_name": "その他",
+          "goods_tax_code": "SCT",
+          "same_unit_saleAmt": "Y",
+          "worker_id": "FUKUOKA002"
+        }
+      ]
+    }
+  ],
+  "userId": "FUKUOKA002",
+  "companyID": "000001",
+  "languageCD": "jp",
+  "merchantNo": "",
+  "deskId": "0000000001"
+}
+INFO  [10/31 15:27:49,481][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:14

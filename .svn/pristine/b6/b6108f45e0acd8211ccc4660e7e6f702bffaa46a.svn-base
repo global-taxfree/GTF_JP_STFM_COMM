@@ -1,0 +1,22 @@
+ERROR [08/02 13:29:41,665][GTF_STFM_COMM.Screen.TrxnPanel.GRD_SLIP_CellDoubleClick] -    위치: GTF_STFM_COMM.Screen.TrxnPanel.GRD_SLIP_CellDoubleClick(Object sender, DataGridViewCellEventArgs e) 파일 C:\SVN\GTF_JP_STFM_COMM\GTF_STFM_COMM\Screen\TrxnPanel.cs:줄 457
+ERROR [08/02 13:29:43,598][GTF_STFM_COMM.Screen.TrxnPanel.GRD_SLIP_CellDoubleClick] -    위치: GTF_STFM_COMM.Screen.TrxnPanel.GRD_SLIP_CellDoubleClick(Object sender, DataGridViewCellEventArgs e) 파일 C:\SVN\GTF_JP_STFM_COMM\GTF_STFM_COMM\Screen\TrxnPanel.cs:줄 457
+ERROR [08/02 13:34:22,622][GTF_STFM_COMM.Screen.TrxnPanel.GRD_SLIP_CellDoubleClick] -    위치: GTF_STFM_COMM.Screen.TrxnPanel.GRD_SLIP_CellDoubleClick(Object sender, DataGridViewCellEventArgs e) 파일 C:\SVN\GTF_JP_STFM_COMM\GTF_STFM_COMM\Screen\TrxnPanel.cs:줄 457
+ERROR [08/02 13:34:23,490][GTF_STFM_COMM.Screen.TrxnPanel.GRD_SLIP_CellDoubleClick] -    위치: GTF_STFM_COMM.Screen.TrxnPanel.GRD_SLIP_CellDoubleClick(Object sender, DataGridViewCellEventArgs e) 파일 C:\SVN\GTF_JP_STFM_COMM\GTF_STFM_COMM\Screen\TrxnPanel.cs:줄 457
+DEBUG [08/02 14:56:01,518][GTF_STFM_COMM.Screen.TrxnDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 1
+DEBUG [08/02 14:56:01,641][GTF_STFM_COMM.Screen.TrxnDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 2
+DEBUG [08/02 14:56:01,641][GTF_STFM_COMM.Screen.TrxnDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 3
+DEBUG [08/02 15:02:13,431][GTF_STFM_COMM.Screen.TrxnDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 1
+DEBUG [08/02 15:02:13,470][GTF_STFM_COMM.Screen.TrxnDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 2
+DEBUG [08/02 15:02:18,054][GTF_STFM_COMM.Screen.TrxnDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 3
+DEBUG [08/02 15:05:54,853][GTF_STFM_COMM.Screen.TrxnDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 1
+DEBUG [08/02 15:05:54,890][GTF_STFM_COMM.Screen.TrxnDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 2
+DEBUG [08/02 15:05:55,426][GTF_STFM_COMM.Screen.TrxnDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 3
+DEBUG [08/02 15:06:00,870][GTF_STFM_COMM.Screen.TrxnDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 1
+DEBUG [08/02 15:06:00,909][GTF_STFM_COMM.Screen.TrxnDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 2
+DEBUG [08/02 15:06:01,458][GTF_STFM_COMM.Screen.TrxnDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 3
+DEBUG [08/02 15:13:21,618][GTF_STFM_COMM.Screen.TrxnDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 1
+DEBUG [08/02 15:13:21,712][GTF_STFM_COMM.Screen.TrxnDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 2
+DEBUG [08/02 15:13:22,102][GTF_STFM_COMM.Screen.TrxnDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 3
+DEBUG [08/02 15:13:38,208][GTF_STFM_COMM.Screen.TrxnDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 1
+DEBUG [08/02 15:13:38,245][GTF_STFM_COMM.Screen.TrxnDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 2
+DEBUG [08/02 15:13:38,633][GTF_STFM_COMM.Screen.TrxnDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 3

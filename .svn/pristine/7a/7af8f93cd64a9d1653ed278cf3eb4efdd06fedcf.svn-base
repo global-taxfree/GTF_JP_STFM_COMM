@@ -1,0 +1,269 @@
+INFO  [08/14 10:07:55,369][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:557, parentControl.Size.Height:327
+INFO  [08/14 10:08:07,325][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/offLogin
+INFO  [08/14 10:08:07,325][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA002",
+  "passWord": "gtf12345",
+  "openDate": "20170814",
+  "languageCD": "jp",
+  "companyID": "000001"
+}
+INFO  [08/14 10:08:07,449][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:37
+INFO  [08/14 10:08:32,989][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/offLogin
+INFO  [08/14 10:08:32,989][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA002",
+  "passWord": "gtf12345",
+  "openDate": "20170814",
+  "languageCD": "jp",
+  "companyID": "000001"
+}
+INFO  [08/14 10:08:33,020][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:37
+INFO  [08/14 10:09:23,751][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:557, parentControl.Size.Height:327
+INFO  [08/14 10:09:30,728][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:https://jpadmin.gtfetrs.com/service/jtc/offLogin
+INFO  [08/14 10:09:30,728][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA002",
+  "passWord": "gtf12345",
+  "openDate": "20170814",
+  "languageCD": "jp",
+  "companyID": "000001"
+}
+ERROR [08/14 10:09:31,087][GTF_Comm.GTF_CommManager.sendHttp_Json] -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout) 파일 C:\SVN\GTF_JP_STFM\GTF_COMM\GTF_CommManager.cs:줄 60
+INFO  [08/14 10:09:49,086][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:557, parentControl.Size.Height:327
+INFO  [08/14 10:09:55,794][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:https://jpadmin.gtfetrs.com/service/jtc/offLogin
+INFO  [08/14 10:09:55,794][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA002",
+  "passWord": "gtf12345",
+  "openDate": "20170814",
+  "languageCD": "jp",
+  "companyID": "000001"
+}
+ERROR [08/14 10:09:56,121][GTF_Comm.GTF_CommManager.sendHttp_Json] -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout) 파일 C:\SVN\GTF_JP_STFM\GTF_COMM\GTF_CommManager.cs:줄 60
+INFO  [08/14 10:10:34,287][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:https://jpadmin.gtfetrs.com/service/jtc/offLogin
+INFO  [08/14 10:10:34,287][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA002",
+  "passWord": "gtf12345",
+  "openDate": "20170814",
+  "languageCD": "jp",
+  "companyID": "000001"
+}
+ERROR [08/14 10:10:34,396][GTF_Comm.GTF_CommManager.sendHttp_Json] -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout) 파일 C:\SVN\GTF_JP_STFM\GTF_COMM\GTF_CommManager.cs:줄 60
+INFO  [08/14 10:11:09,206][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:https://jpadmin.gtfetrs.com/service/jtc/offLogin
+INFO  [08/14 10:11:09,206][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA002",
+  "passWord": "gtf12345",
+  "openDate": "20170814",
+  "languageCD": "jp",
+  "companyID": "000001"
+}
+ERROR [08/14 10:11:09,238][GTF_Comm.GTF_CommManager.sendHttp_Json] -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout) 파일 C:\SVN\GTF_JP_STFM\GTF_COMM\GTF_CommManager.cs:줄 60
+INFO  [08/14 10:12:24,515][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:https://jpadmin.gtfetrs.com/service/jtc/offLogin
+INFO  [08/14 10:12:25,678][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA002",
+  "passWord": "gtf12345",
+  "openDate": "20170814",
+  "languageCD": "jp",
+  "companyID": "000001"
+}
+ERROR [08/14 10:12:42,779][GTF_Comm.GTF_CommManager.sendHttp_Json] -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout) 파일 C:\SVN\GTF_JP_STFM\GTF_COMM\GTF_CommManager.cs:줄 60
+INFO  [08/14 10:30:36,241][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:557, parentControl.Size.Height:327
+INFO  [08/14 10:31:24,243][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:557, parentControl.Size.Height:327
+INFO  [08/14 10:31:31,819][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:https://jpadmin.gtfetrs.com/service/jtc/offLogin
+INFO  [08/14 10:31:31,822][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA002",
+  "passWord": "gtf12345",
+  "openDate": "20170814",
+  "languageCD": "jp",
+  "companyID": "000001"
+}
+ERROR [08/14 10:31:32,144][GTF_Comm.GTF_CommManager.sendHttp_Json] -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout) 파일 C:\SVN\GTF_JP_STFM\GTF_COMM\GTF_CommManager.cs:줄 60
+INFO  [08/14 10:59:49,507][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:557, parentControl.Size.Height:327
+INFO  [08/14 11:00:00,390][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:https://jpadmin.gtfetrs.com:443/service/jtc/offLogin
+INFO  [08/14 11:00:00,394][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA002",
+  "passWord": "gtf12345",
+  "openDate": "20170814",
+  "languageCD": "jp",
+  "companyID": "000001"
+}
+ERROR [08/14 11:00:01,423][GTF_Comm.GTF_CommManager.sendHttp_Json] -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout) 파일 C:\SVN\GTF_JP_STFM\GTF_COMM\GTF_CommManager.cs:줄 60
+INFO  [08/14 11:00:19,092][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:https://jpadmin.gtfetrs.com:443/service/jtc/offLogin
+INFO  [08/14 11:00:19,094][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA002",
+  "passWord": "gtf12345",
+  "openDate": "20170814",
+  "languageCD": "jp",
+  "companyID": "000001"
+}
+ERROR [08/14 11:00:19,406][GTF_Comm.GTF_CommManager.sendHttp_Json] -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout) 파일 C:\SVN\GTF_JP_STFM\GTF_COMM\GTF_CommManager.cs:줄 60
+INFO  [08/14 11:11:09,566][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:557, parentControl.Size.Height:327
+INFO  [08/14 11:11:17,954][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:https://jpadmin.gtfetrs.com:443/service/jtc/offLogin
+INFO  [08/14 11:11:17,957][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA002",
+  "passWord": "gtf12345",
+  "openDate": "20170814",
+  "languageCD": "jp",
+  "companyID": "000001"
+}
+ERROR [08/14 11:11:18,265][GTF_Comm.GTF_CommManager.sendHttp_Json] -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout) 파일 C:\SVN\GTF_JP_STFM\GTF_COMM\GTF_CommManager.cs:줄 60
+INFO  [08/14 11:14:48,025][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:557, parentControl.Size.Height:327
+INFO  [08/14 11:14:55,032][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:https://jpadmin.gtfetrs.com:443/service/jtc/offLogin
+INFO  [08/14 11:14:55,035][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA002",
+  "passWord": "gtf12345",
+  "openDate": "20170814",
+  "languageCD": "jp",
+  "companyID": "000001"
+}
+INFO  [08/14 11:14:55,474][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:145
+ERROR [08/14 11:14:55,665][GTF_STFM.Tran.Transaction.Login] - 지정된 테이블에서 삭제할 수 없습니다.
+System.Data.OleDb.OleDbException (0x80004005): 지정된 테이블에서 삭제할 수 없습니다.
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteNonQuery()
+   위치: GTF_LocalDB.GTF_LocalDBManager.DropTable(String strTableName) 파일 C:\SVN\GTF_JP_STFM\GTF_LocalDB\GTF_LocalDBManager.cs:줄 701
+   위치: GTF_STFM.Tran.Transaction.Login(String strUserId, String strPassword) 파일 C:\SVN\GTF_JP_STFM\GTF_STFM\Tran\Transaction.cs:줄 81
+INFO  [08/14 11:14:55,698][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :start
+INFO  [08/14 11:14:55,899][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:https://jpadmin.gtfetrs.com:443/service/jtc/getOffInfo
+INFO  [08/14 11:14:55,900][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA002",
+  "merchantNo": "",
+  "deskId": "0000000001",
+  "languageCD": "jp",
+  "companyID": "000001",
+  "code_type": "merchant"
+}
+INFO  [08/14 11:14:56,138][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:139792
+INFO  [08/14 11:14:56,172][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - 지정된 테이블에서 삭제할 수 없습니다.
+INFO  [08/14 18:18:52,320][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:557, parentControl.Size.Height:327
+INFO  [08/14 18:18:59,493][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/offLogin
+INFO  [08/14 18:18:59,496][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA002",
+  "passWord": "gtf12345",
+  "openDate": "20170814",
+  "languageCD": "jp",
+  "companyID": "000001"
+}
+INFO  [08/14 18:18:59,641][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:145
+ERROR [08/14 18:18:59,828][GTF_STFM.Tran.Transaction.Login] - 지정된 테이블에서 삭제할 수 없습니다.
+System.Data.OleDb.OleDbException (0x80004005): 지정된 테이블에서 삭제할 수 없습니다.
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteNonQuery()
+   위치: GTF_LocalDB.GTF_LocalDBManager.DropTable(String strTableName) 파일 C:\SVN\GTF_JP_STFM\GTF_LocalDB\GTF_LocalDBManager.cs:줄 701
+   위치: GTF_STFM.Tran.Transaction.Login(String strUserId, String strPassword) 파일 C:\SVN\GTF_JP_STFM\GTF_STFM\Tran\Transaction.cs:줄 81
+INFO  [08/14 18:18:59,903][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :start
+INFO  [08/14 18:19:00,104][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/getOffInfo
+INFO  [08/14 18:19:00,105][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA002",
+  "merchantNo": "",
+  "deskId": "0000000001",
+  "languageCD": "jp",
+  "companyID": "000001",
+  "code_type": "merchant"
+}
+INFO  [08/14 18:19:00,232][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:131467
+INFO  [08/14 18:19:00,261][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - 지정된 테이블에서 삭제할 수 없습니다.
+INFO  [08/14 18:19:41,426][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:557, parentControl.Size.Height:327
+INFO  [08/14 18:19:49,232][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/offLogin
+INFO  [08/14 18:19:49,235][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA002",
+  "passWord": "gtf12345",
+  "openDate": "20170814",
+  "languageCD": "jp",
+  "companyID": "000001"
+}
+INFO  [08/14 18:19:49,389][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:145
+INFO  [08/14 18:19:49,471][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :start
+INFO  [08/14 18:19:49,473][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/getOffInfo
+INFO  [08/14 18:19:49,474][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA002",
+  "merchantNo": "",
+  "deskId": "0000000001",
+  "languageCD": "jp",
+  "companyID": "000001",
+  "code_type": "merchant"
+}
+INFO  [08/14 18:19:49,613][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:131467
+INFO  [08/14 18:19:50,364][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :merchant
+INFO  [08/14 18:19:50,366][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/getOffInfo
+INFO  [08/14 18:19:50,367][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA002",
+  "merchantNo": "",
+  "deskId": "0000000001",
+  "languageCD": "jp",
+  "companyID": "000001",
+  "code_type": "code"
+}
+INFO  [08/14 18:19:51,067][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:1136363
+INFO  [08/14 18:20:08,208][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/getOffInfo
+INFO  [08/14 18:20:08,209][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA002",
+  "merchantNo": "",
+  "deskId": "0000000001",
+  "languageCD": "jp",
+  "companyID": "000001",
+  "code_type": "item"
+}
+INFO  [08/14 18:20:08,269][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:9399
+INFO  [08/14 18:20:08,537][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :item
+INFO  [08/14 18:20:08,538][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/getOffInfo
+INFO  [08/14 18:20:08,539][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA002",
+  "merchantNo": "",
+  "deskId": "0000000001",
+  "languageCD": "jp",
+  "companyID": "000001",
+  "code_type": "taxoffice"
+}
+INFO  [08/14 18:20:08,602][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:20200
+INFO  [08/14 18:20:08,870][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :taxoffice
+INFO  [08/14 18:20:08,871][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/getOffInfo
+INFO  [08/14 18:20:08,872][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA002",
+  "merchantNo": "",
+  "deskId": "0000000001",
+  "languageCD": "jp",
+  "companyID": "000001",
+  "code_type": "ads"
+}
+INFO  [08/14 18:20:08,896][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:45
+INFO  [08/14 18:20:08,897][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :ads
+INFO  [08/14 18:20:09,355][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [08/14 18:20:09,577][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [08/14 18:20:09,644][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [08/14 18:20:09,707][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [08/14 18:20:09,846][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [08/14 18:20:09,866][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1360, parentControl.Size.Height:728
+INFO  [08/14 18:20:09,942][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> URI:http://jp2admin.gtfetrs.com/service/jtc/getOffInfo
+INFO  [08/14 18:20:09,945][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> REQ:{
+  "userId": "FUKUOKA002",
+  "merchantNo": "",
+  "deskId": "0000000001",
+  "languageCD": "jp",
+  "companyID": "000001",
+  "code_type": "bin"
+}
+INFO  [08/14 18:20:11,045][GTF_Comm.GTF_CommManager.sendHttp_Json] - sendHttp_Json >> RES size:985000

@@ -1,0 +1,23 @@
+DEBUG [05/03 18:09:42,168][GTF_STFM.Screen.SlipDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 1
+DEBUG [05/03 18:09:42,181][GTF_STFM.Screen.SlipDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 2
+DEBUG [05/03 18:09:42,181][GTF_STFM.Screen.SlipDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 3
+DEBUG [05/03 18:14:01,653][GTF_STFM.Screen.TrxnDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 1
+ERROR [05/03 18:14:01,853][GTF_STFM.Screen.TrxnDetailInfo.SlipDetailInfo_Load] -    위치: Newtonsoft.Json.JsonTextReader.ParseValue()
+   위치: Newtonsoft.Json.JsonTextReader.Read()
+   위치: Newtonsoft.Json.Linq.JArray.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JArray.Parse(String json, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JArray.Parse(String json)
+   위치: GTF_STFM.Screen.TrxnDetailInfo.SlipDetailInfo_Load(Object sender, EventArgs e) 파일 C:\SVN\GTF_JP_STFM\GTF_STFM\Screen\TrxnDetailInfo.cs:줄 92
+DEBUG [05/03 18:15:37,735][GTF_STFM.Screen.TrxnDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 1
+ERROR [05/03 18:15:37,901][GTF_STFM.Screen.TrxnDetailInfo.SlipDetailInfo_Load] -    위치: Newtonsoft.Json.JsonTextReader.ParseValue()
+   위치: Newtonsoft.Json.JsonTextReader.Read()
+   위치: Newtonsoft.Json.Linq.JArray.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JArray.Parse(String json, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JArray.Parse(String json)
+   위치: GTF_STFM.Screen.TrxnDetailInfo.SlipDetailInfo_Load(Object sender, EventArgs e) 파일 C:\SVN\GTF_JP_STFM\GTF_STFM\Screen\TrxnDetailInfo.cs:줄 92
+DEBUG [05/03 18:16:56,999][GTF_STFM.Screen.TrxnDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 1
+DEBUG [05/03 18:16:57,060][GTF_STFM.Screen.TrxnDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 2
+DEBUG [05/03 18:16:57,378][GTF_STFM.Screen.TrxnDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 3
+DEBUG [05/03 18:17:20,805][GTF_STFM.Screen.TrxnDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 1
+DEBUG [05/03 18:17:20,861][GTF_STFM.Screen.TrxnDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 2
+DEBUG [05/03 18:17:21,190][GTF_STFM.Screen.TrxnDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 3

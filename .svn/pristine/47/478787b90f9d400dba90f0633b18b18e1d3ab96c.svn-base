@@ -1,0 +1,15 @@
+INFO  [12/10 16:24:43,748][GTF_STFM_COMM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:557, parentControl.Size.Height:327
+INFO  [12/10 16:24:52,750][GTF_STFM_COMM.Screen.Login.BTN_LOGIN_Click] - :start
+INFO  [12/10 16:24:52,882][GTF_STFM_COMM.Screen.Login.BTN_LOGIN_Click] - :merchant
+INFO  [12/10 16:24:53,205][GTF_STFM_COMM.Screen.Login.BTN_LOGIN_Click] - :item
+INFO  [12/10 16:24:53,507][GTF_STFM_COMM.Screen.Login.BTN_LOGIN_Click] - :taxoffice
+INFO  [12/10 16:24:53,528][GTF_STFM_COMM.Screen.Login.BTN_LOGIN_Click] - :ads
+INFO  [12/10 16:24:54,063][GTF_STFM_COMM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [12/10 16:24:54,291][GTF_STFM_COMM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [12/10 16:24:54,368][GTF_STFM_COMM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [12/10 16:24:54,463][GTF_STFM_COMM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [12/10 16:24:54,840][GTF_STFM_COMM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [12/10 16:24:55,050][GTF_STFM_COMM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [12/10 16:24:55,181][GTF_STFM_COMM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [12/10 16:24:55,221][GTF_STFM_COMM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1360, parentControl.Size.Height:728
+ERROR [12/10 16:24:56,890][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004

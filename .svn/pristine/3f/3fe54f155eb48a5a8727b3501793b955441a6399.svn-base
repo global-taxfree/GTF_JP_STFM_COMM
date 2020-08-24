@@ -1,0 +1,489 @@
+INFO  [04/30 14:25:56,610][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:557, parentControl.Size.Height:327
+INFO  [04/30 14:55:48,630][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:557, parentControl.Size.Height:327
+INFO  [04/30 14:55:52,437][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :start
+INFO  [04/30 14:55:53,311][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :merchant
+INFO  [04/30 14:55:53,574][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :item
+INFO  [04/30 14:55:53,854][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :taxoffice
+INFO  [04/30 14:55:53,881][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :ads
+INFO  [04/30 14:55:54,346][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [04/30 14:55:54,555][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [04/30 14:55:54,620][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [04/30 14:55:54,697][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [04/30 14:55:54,898][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [04/30 14:55:54,932][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1360, parentControl.Size.Height:728
+ERROR [04/30 14:55:56,959][GTF_LocalDB.GTF_LocalDBManager.SelectTable] -    위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   위치: GTF_LocalDB.GTF_LocalDBManager.SelectTable(String strTableName, JObject jsonWhere) 파일 C:\SVN\GTF_JP_STFM\GTF_LocalDB\GTF_LocalDBManager.cs:줄 585
+ERROR [04/30 14:55:57,201][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/30 14:55:59,988][GTF_LocalDB.GTF_LocalDBManager.SelectTable] -    위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   위치: GTF_LocalDB.GTF_LocalDBManager.SelectTable(String strTableName, JObject jsonWhere) 파일 C:\SVN\GTF_JP_STFM\GTF_LocalDB\GTF_LocalDBManager.cs:줄 585
+ERROR [04/30 14:56:00,458][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/30 14:56:03,021][GTF_LocalDB.GTF_LocalDBManager.SelectTable] -    위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   위치: GTF_LocalDB.GTF_LocalDBManager.SelectTable(String strTableName, JObject jsonWhere) 파일 C:\SVN\GTF_JP_STFM\GTF_LocalDB\GTF_LocalDBManager.cs:줄 585
+ERROR [04/30 14:56:03,716][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/30 14:56:06,053][GTF_LocalDB.GTF_LocalDBManager.SelectTable] -    위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   위치: GTF_LocalDB.GTF_LocalDBManager.SelectTable(String strTableName, JObject jsonWhere) 파일 C:\SVN\GTF_JP_STFM\GTF_LocalDB\GTF_LocalDBManager.cs:줄 585
+ERROR [04/30 14:56:06,972][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/30 14:56:09,085][GTF_LocalDB.GTF_LocalDBManager.SelectTable] -    위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   위치: GTF_LocalDB.GTF_LocalDBManager.SelectTable(String strTableName, JObject jsonWhere) 파일 C:\SVN\GTF_JP_STFM\GTF_LocalDB\GTF_LocalDBManager.cs:줄 585
+ERROR [04/30 14:56:10,228][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+INFO  [04/30 14:56:53,362][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:557, parentControl.Size.Height:327
+INFO  [04/30 14:58:52,807][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:557, parentControl.Size.Height:327
+INFO  [04/30 14:58:56,475][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :start
+INFO  [04/30 14:58:57,245][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :merchant
+INFO  [04/30 14:58:57,511][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :item
+INFO  [04/30 14:58:57,770][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :taxoffice
+INFO  [04/30 14:58:57,795][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :ads
+INFO  [04/30 14:58:58,220][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [04/30 14:58:58,443][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [04/30 14:58:58,522][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [04/30 14:58:58,625][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [04/30 14:58:58,736][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [04/30 14:58:58,771][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1360, parentControl.Size.Height:728
+ERROR [04/30 14:59:00,865][GTF_LocalDB.GTF_LocalDBManager.SelectTable] -    위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   위치: GTF_LocalDB.GTF_LocalDBManager.SelectTable(String strTableName, JObject jsonWhere) 파일 C:\SVN\GTF_JP_STFM\GTF_LocalDB\GTF_LocalDBManager.cs:줄 585
+ERROR [04/30 14:59:01,103][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/30 14:59:03,894][GTF_LocalDB.GTF_LocalDBManager.SelectTable] -    위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   위치: GTF_LocalDB.GTF_LocalDBManager.SelectTable(String strTableName, JObject jsonWhere) 파일 C:\SVN\GTF_JP_STFM\GTF_LocalDB\GTF_LocalDBManager.cs:줄 585
+ERROR [04/30 14:59:06,920][GTF_LocalDB.GTF_LocalDBManager.SelectTable] -    위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   위치: GTF_LocalDB.GTF_LocalDBManager.SelectTable(String strTableName, JObject jsonWhere) 파일 C:\SVN\GTF_JP_STFM\GTF_LocalDB\GTF_LocalDBManager.cs:줄 585
+ERROR [04/30 14:59:08,580][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/30 14:59:09,962][GTF_LocalDB.GTF_LocalDBManager.SelectTable] -    위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   위치: GTF_LocalDB.GTF_LocalDBManager.SelectTable(String strTableName, JObject jsonWhere) 파일 C:\SVN\GTF_JP_STFM\GTF_LocalDB\GTF_LocalDBManager.cs:줄 585
+ERROR [04/30 14:59:11,837][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/30 14:59:12,991][GTF_LocalDB.GTF_LocalDBManager.SelectTable] -    위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   위치: GTF_LocalDB.GTF_LocalDBManager.SelectTable(String strTableName, JObject jsonWhere) 파일 C:\SVN\GTF_JP_STFM\GTF_LocalDB\GTF_LocalDBManager.cs:줄 585
+ERROR [04/30 14:59:15,094][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/30 14:59:16,002][GTF_LocalDB.GTF_LocalDBManager.SelectTable] -    위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   위치: GTF_LocalDB.GTF_LocalDBManager.SelectTable(String strTableName, JObject jsonWhere) 파일 C:\SVN\GTF_JP_STFM\GTF_LocalDB\GTF_LocalDBManager.cs:줄 585
+ERROR [04/30 14:59:18,352][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+INFO  [04/30 14:59:18,629][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1100, parentControl.Size.Height:600
+ERROR [04/30 14:59:19,014][GTF_LocalDB.GTF_LocalDBManager.SelectTable] -    위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   위치: GTF_LocalDB.GTF_LocalDBManager.SelectTable(String strTableName, JObject jsonWhere) 파일 C:\SVN\GTF_JP_STFM\GTF_LocalDB\GTF_LocalDBManager.cs:줄 585
+ERROR [04/30 14:59:21,606][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/30 14:59:22,038][GTF_LocalDB.GTF_LocalDBManager.SelectTable] -    위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   위치: GTF_LocalDB.GTF_LocalDBManager.SelectTable(String strTableName, JObject jsonWhere) 파일 C:\SVN\GTF_JP_STFM\GTF_LocalDB\GTF_LocalDBManager.cs:줄 585
+INFO  [04/30 14:59:23,309][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1100, parentControl.Size.Height:600
+ERROR [04/30 14:59:24,863][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/30 14:59:25,059][GTF_LocalDB.GTF_LocalDBManager.SelectTable] -    위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   위치: GTF_LocalDB.GTF_LocalDBManager.SelectTable(String strTableName, JObject jsonWhere) 파일 C:\SVN\GTF_JP_STFM\GTF_LocalDB\GTF_LocalDBManager.cs:줄 585
+ERROR [04/30 14:59:28,085][GTF_LocalDB.GTF_LocalDBManager.SelectTable] -    위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   위치: GTF_LocalDB.GTF_LocalDBManager.SelectTable(String strTableName, JObject jsonWhere) 파일 C:\SVN\GTF_JP_STFM\GTF_LocalDB\GTF_LocalDBManager.cs:줄 585
+ERROR [04/30 14:59:28,120][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/30 14:59:31,121][GTF_LocalDB.GTF_LocalDBManager.SelectTable] -    위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   위치: GTF_LocalDB.GTF_LocalDBManager.SelectTable(String strTableName, JObject jsonWhere) 파일 C:\SVN\GTF_JP_STFM\GTF_LocalDB\GTF_LocalDBManager.cs:줄 585
+ERROR [04/30 14:59:31,377][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/30 14:59:34,156][GTF_LocalDB.GTF_LocalDBManager.SelectTable] -    위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   위치: GTF_LocalDB.GTF_LocalDBManager.SelectTable(String strTableName, JObject jsonWhere) 파일 C:\SVN\GTF_JP_STFM\GTF_LocalDB\GTF_LocalDBManager.cs:줄 585
+ERROR [04/30 14:59:34,634][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/30 14:59:37,193][GTF_LocalDB.GTF_LocalDBManager.SelectTable] -    위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   위치: GTF_LocalDB.GTF_LocalDBManager.SelectTable(String strTableName, JObject jsonWhere) 파일 C:\SVN\GTF_JP_STFM\GTF_LocalDB\GTF_LocalDBManager.cs:줄 585
+ERROR [04/30 14:59:37,890][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/30 14:59:40,205][GTF_LocalDB.GTF_LocalDBManager.SelectTable] -    위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   위치: GTF_LocalDB.GTF_LocalDBManager.SelectTable(String strTableName, JObject jsonWhere) 파일 C:\SVN\GTF_JP_STFM\GTF_LocalDB\GTF_LocalDBManager.cs:줄 585
+ERROR [04/30 14:59:41,147][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/30 14:59:43,238][GTF_LocalDB.GTF_LocalDBManager.SelectTable] -    위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   위치: GTF_LocalDB.GTF_LocalDBManager.SelectTable(String strTableName, JObject jsonWhere) 파일 C:\SVN\GTF_JP_STFM\GTF_LocalDB\GTF_LocalDBManager.cs:줄 585
+ERROR [04/30 14:59:43,429][GTF_LocalDB.GTF_LocalDBManager.SelectTable] -    위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   위치: GTF_LocalDB.GTF_LocalDBManager.SelectTable(String strTableName, JObject jsonWhere) 파일 C:\SVN\GTF_JP_STFM\GTF_LocalDB\GTF_LocalDBManager.cs:줄 585
+ERROR [04/30 14:59:44,405][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/30 14:59:47,661][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/30 14:59:50,918][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/30 14:59:54,175][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/30 14:59:57,431][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/30 15:00:00,687][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/30 15:00:03,944][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/30 15:00:07,200][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/30 15:00:10,456][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/30 15:00:13,712][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/30 15:00:16,968][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+INFO  [04/30 15:37:03,610][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:557, parentControl.Size.Height:327
+INFO  [04/30 15:37:07,518][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :start
+INFO  [04/30 15:37:08,675][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :merchant
+INFO  [04/30 15:37:08,973][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :item
+INFO  [04/30 15:37:09,298][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :taxoffice
+INFO  [04/30 15:37:09,326][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :ads
+INFO  [04/30 15:37:09,976][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [04/30 15:37:10,286][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [04/30 15:37:10,385][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [04/30 15:37:10,694][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [04/30 15:37:11,163][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [04/30 15:37:11,244][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1360, parentControl.Size.Height:728
+ERROR [04/30 15:37:12,534][GTF_LocalDB.GTF_LocalDBManager.SelectTable] -    위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   위치: GTF_LocalDB.GTF_LocalDBManager.SelectTable(String strTableName, JObject jsonWhere) 파일 C:\SVN\GTF_JP_STFM\GTF_LocalDB\GTF_LocalDBManager.cs:줄 586
+ERROR [04/30 15:37:12,710][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/30 15:37:15,619][GTF_LocalDB.GTF_LocalDBManager.SelectTable] -    위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   위치: GTF_LocalDB.GTF_LocalDBManager.SelectTable(String strTableName, JObject jsonWhere) 파일 C:\SVN\GTF_JP_STFM\GTF_LocalDB\GTF_LocalDBManager.cs:줄 586
+ERROR [04/30 15:37:15,967][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/30 15:37:18,634][GTF_LocalDB.GTF_LocalDBManager.SelectTable] -    위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   위치: GTF_LocalDB.GTF_LocalDBManager.SelectTable(String strTableName, JObject jsonWhere) 파일 C:\SVN\GTF_JP_STFM\GTF_LocalDB\GTF_LocalDBManager.cs:줄 586
+ERROR [04/30 15:37:19,223][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/30 15:37:21,665][GTF_LocalDB.GTF_LocalDBManager.SelectTable] -    위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   위치: GTF_LocalDB.GTF_LocalDBManager.SelectTable(String strTableName, JObject jsonWhere) 파일 C:\SVN\GTF_JP_STFM\GTF_LocalDB\GTF_LocalDBManager.cs:줄 586
+ERROR [04/30 15:37:22,482][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/30 15:37:24,699][GTF_LocalDB.GTF_LocalDBManager.SelectTable] -    위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   위치: GTF_LocalDB.GTF_LocalDBManager.SelectTable(String strTableName, JObject jsonWhere) 파일 C:\SVN\GTF_JP_STFM\GTF_LocalDB\GTF_LocalDBManager.cs:줄 586
+ERROR [04/30 15:37:25,738][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/30 15:37:27,729][GTF_LocalDB.GTF_LocalDBManager.SelectTable] -    위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   위치: GTF_LocalDB.GTF_LocalDBManager.SelectTable(String strTableName, JObject jsonWhere) 파일 C:\SVN\GTF_JP_STFM\GTF_LocalDB\GTF_LocalDBManager.cs:줄 586
+ERROR [04/30 15:37:30,757][GTF_LocalDB.GTF_LocalDBManager.SelectTable] -    위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   위치: GTF_LocalDB.GTF_LocalDBManager.SelectTable(String strTableName, JObject jsonWhere) 파일 C:\SVN\GTF_JP_STFM\GTF_LocalDB\GTF_LocalDBManager.cs:줄 586
+ERROR [04/30 15:37:32,083][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/30 15:37:33,795][GTF_LocalDB.GTF_LocalDBManager.SelectTable] -    위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   위치: GTF_LocalDB.GTF_LocalDBManager.SelectTable(String strTableName, JObject jsonWhere) 파일 C:\SVN\GTF_JP_STFM\GTF_LocalDB\GTF_LocalDBManager.cs:줄 586
+ERROR [04/30 15:37:35,339][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/30 15:37:36,830][GTF_LocalDB.GTF_LocalDBManager.SelectTable] -    위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   위치: GTF_LocalDB.GTF_LocalDBManager.SelectTable(String strTableName, JObject jsonWhere) 파일 C:\SVN\GTF_JP_STFM\GTF_LocalDB\GTF_LocalDBManager.cs:줄 586
+ERROR [04/30 15:37:38,603][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/30 15:37:39,851][GTF_LocalDB.GTF_LocalDBManager.SelectTable] -    위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   위치: GTF_LocalDB.GTF_LocalDBManager.SelectTable(String strTableName, JObject jsonWhere) 파일 C:\SVN\GTF_JP_STFM\GTF_LocalDB\GTF_LocalDBManager.cs:줄 586
+ERROR [04/30 15:37:41,860][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/30 15:37:42,899][GTF_LocalDB.GTF_LocalDBManager.SelectTable] -    위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   위치: GTF_LocalDB.GTF_LocalDBManager.SelectTable(String strTableName, JObject jsonWhere) 파일 C:\SVN\GTF_JP_STFM\GTF_LocalDB\GTF_LocalDBManager.cs:줄 586
+ERROR [04/30 15:37:45,117][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/30 15:37:45,916][GTF_LocalDB.GTF_LocalDBManager.SelectTable] -    위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   위치: GTF_LocalDB.GTF_LocalDBManager.SelectTable(String strTableName, JObject jsonWhere) 파일 C:\SVN\GTF_JP_STFM\GTF_LocalDB\GTF_LocalDBManager.cs:줄 586
+ERROR [04/30 15:37:48,374][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/30 15:37:48,954][GTF_LocalDB.GTF_LocalDBManager.SelectTable] -    위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   위치: GTF_LocalDB.GTF_LocalDBManager.SelectTable(String strTableName, JObject jsonWhere) 파일 C:\SVN\GTF_JP_STFM\GTF_LocalDB\GTF_LocalDBManager.cs:줄 586
+ERROR [04/30 15:37:51,635][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/30 15:37:51,981][GTF_LocalDB.GTF_LocalDBManager.SelectTable] -    위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   위치: GTF_LocalDB.GTF_LocalDBManager.SelectTable(String strTableName, JObject jsonWhere) 파일 C:\SVN\GTF_JP_STFM\GTF_LocalDB\GTF_LocalDBManager.cs:줄 586
+ERROR [04/30 15:37:54,893][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/30 15:37:55,023][GTF_LocalDB.GTF_LocalDBManager.SelectTable] -    위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   위치: GTF_LocalDB.GTF_LocalDBManager.SelectTable(String strTableName, JObject jsonWhere) 파일 C:\SVN\GTF_JP_STFM\GTF_LocalDB\GTF_LocalDBManager.cs:줄 586
+ERROR [04/30 15:37:58,113][GTF_LocalDB.GTF_LocalDBManager.SelectTable] -    위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   위치: GTF_LocalDB.GTF_LocalDBManager.SelectTable(String strTableName, JObject jsonWhere) 파일 C:\SVN\GTF_JP_STFM\GTF_LocalDB\GTF_LocalDBManager.cs:줄 586
+ERROR [04/30 15:37:58,153][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/30 15:38:01,125][GTF_LocalDB.GTF_LocalDBManager.SelectTable] -    위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   위치: GTF_LocalDB.GTF_LocalDBManager.SelectTable(String strTableName, JObject jsonWhere) 파일 C:\SVN\GTF_JP_STFM\GTF_LocalDB\GTF_LocalDBManager.cs:줄 586
+ERROR [04/30 15:38:01,409][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+INFO  [04/30 15:38:02,288][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1100, parentControl.Size.Height:600
+ERROR [04/30 15:38:04,135][GTF_LocalDB.GTF_LocalDBManager.SelectTable] -    위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   위치: GTF_LocalDB.GTF_LocalDBManager.SelectTable(String strTableName, JObject jsonWhere) 파일 C:\SVN\GTF_JP_STFM\GTF_LocalDB\GTF_LocalDBManager.cs:줄 586
+ERROR [04/30 15:38:04,666][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+INFO  [04/30 15:38:05,878][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1100, parentControl.Size.Height:600
+ERROR [04/30 15:38:07,154][GTF_LocalDB.GTF_LocalDBManager.SelectTable] -    위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   위치: GTF_LocalDB.GTF_LocalDBManager.SelectTable(String strTableName, JObject jsonWhere) 파일 C:\SVN\GTF_JP_STFM\GTF_LocalDB\GTF_LocalDBManager.cs:줄 586
+ERROR [04/30 15:38:07,922][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/30 15:38:10,166][GTF_LocalDB.GTF_LocalDBManager.SelectTable] -    위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   위치: GTF_LocalDB.GTF_LocalDBManager.SelectTable(String strTableName, JObject jsonWhere) 파일 C:\SVN\GTF_JP_STFM\GTF_LocalDB\GTF_LocalDBManager.cs:줄 586
+ERROR [04/30 15:38:11,179][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/30 15:38:13,246][GTF_LocalDB.GTF_LocalDBManager.SelectTable] -    위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   위치: GTF_LocalDB.GTF_LocalDBManager.SelectTable(String strTableName, JObject jsonWhere) 파일 C:\SVN\GTF_JP_STFM\GTF_LocalDB\GTF_LocalDBManager.cs:줄 586
+ERROR [04/30 15:38:14,437][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/30 15:38:16,287][GTF_LocalDB.GTF_LocalDBManager.SelectTable] -    위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   위치: GTF_LocalDB.GTF_LocalDBManager.SelectTable(String strTableName, JObject jsonWhere) 파일 C:\SVN\GTF_JP_STFM\GTF_LocalDB\GTF_LocalDBManager.cs:줄 586
+ERROR [04/30 15:38:17,694][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/30 15:38:17,766][GTF_LocalDB.GTF_LocalDBManager.SelectTable] -    위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   위치: GTF_LocalDB.GTF_LocalDBManager.SelectTable(String strTableName, JObject jsonWhere) 파일 C:\SVN\GTF_JP_STFM\GTF_LocalDB\GTF_LocalDBManager.cs:줄 586
+ERROR [04/30 15:38:21,378][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/30 15:38:24,634][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/30 15:38:27,890][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/30 15:38:31,147][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/30 15:38:34,403][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/30 15:38:37,659][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/30 15:38:40,916][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/30 15:38:44,172][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/30 15:38:47,429][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/30 15:38:50,685][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/30 15:38:53,941][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+INFO  [04/30 15:40:31,328][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:557, parentControl.Size.Height:327
+INFO  [04/30 15:40:37,431][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :start
+INFO  [04/30 15:40:38,104][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :merchant
+INFO  [04/30 15:40:38,388][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :item
+INFO  [04/30 15:40:38,647][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :taxoffice
+INFO  [04/30 15:40:38,672][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :ads
+INFO  [04/30 15:40:39,104][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [04/30 15:40:39,305][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [04/30 15:40:39,369][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [04/30 15:40:39,455][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [04/30 15:40:39,557][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [04/30 15:40:39,579][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1360, parentControl.Size.Height:728
+ERROR [04/30 15:40:41,994][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/30 15:40:45,255][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+INFO  [04/30 15:42:06,725][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:557, parentControl.Size.Height:327
+INFO  [04/30 15:42:09,045][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :start
+INFO  [04/30 15:42:09,983][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :merchant
+INFO  [04/30 15:42:10,287][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :item
+INFO  [04/30 15:42:10,546][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :taxoffice
+INFO  [04/30 15:42:10,571][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :ads
+INFO  [04/30 15:42:10,991][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [04/30 15:42:11,186][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [04/30 15:42:11,242][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [04/30 15:42:11,329][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [04/30 15:42:11,423][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [04/30 15:42:11,444][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1360, parentControl.Size.Height:728
+INFO  [04/30 15:42:22,947][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:557, parentControl.Size.Height:327
+INFO  [04/30 15:42:29,665][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :start
+INFO  [04/30 15:42:30,483][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :merchant
+INFO  [04/30 15:42:30,769][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :item
+INFO  [04/30 15:42:31,076][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :taxoffice
+INFO  [04/30 15:42:31,110][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :ads
+INFO  [04/30 15:42:31,543][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [04/30 15:42:31,773][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [04/30 15:42:31,845][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [04/30 15:42:31,927][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [04/30 15:42:32,025][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [04/30 15:42:32,048][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1360, parentControl.Size.Height:728
+ERROR [04/30 15:42:34,425][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/30 15:42:37,702][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/30 15:42:40,958][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+INFO  [04/30 15:42:44,059][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1100, parentControl.Size.Height:600
+ERROR [04/30 15:42:46,619][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+INFO  [04/30 15:42:47,234][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1100, parentControl.Size.Height:600
+ERROR [04/30 15:42:49,876][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/30 15:42:53,132][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/30 15:42:56,388][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/30 15:42:59,645][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/30 15:43:01,700][GTF_LocalDB.GTF_LocalDBManager.SelectTable] -    위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   위치: GTF_LocalDB.GTF_LocalDBManager.SelectTable(String strTableName, JObject jsonWhere) 파일 C:\SVN\GTF_JP_STFM\GTF_LocalDB\GTF_LocalDBManager.cs:줄 586
+ERROR [04/30 15:43:02,902][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/30 15:43:06,159][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/30 15:43:09,416][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/30 15:43:12,673][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/30 15:43:15,930][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/30 15:43:19,186][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/30 15:43:22,442][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/30 15:43:25,698][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/30 15:43:28,956][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/30 15:43:32,212][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/30 15:43:35,468][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/30 15:43:38,723][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+INFO  [04/30 15:45:19,702][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:557, parentControl.Size.Height:327
+INFO  [04/30 15:45:22,159][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :start
+INFO  [04/30 15:45:22,962][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :merchant
+INFO  [04/30 15:45:23,229][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :item
+INFO  [04/30 15:45:23,491][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :taxoffice
+INFO  [04/30 15:45:23,516][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :ads
+INFO  [04/30 15:45:23,929][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [04/30 15:45:24,120][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [04/30 15:45:24,222][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [04/30 15:45:24,330][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [04/30 15:45:24,482][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [04/30 15:45:24,509][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1360, parentControl.Size.Height:728
+ERROR [04/30 15:45:26,833][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004

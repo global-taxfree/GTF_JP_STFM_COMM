@@ -1,0 +1,16 @@
+INFO  [11/22 11:42:20,509][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:557, parentControl.Size.Height:327
+INFO  [11/22 13:13:52,962][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:557, parentControl.Size.Height:327
+INFO  [11/22 18:02:34,466][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:557, parentControl.Size.Height:327
+INFO  [11/22 18:02:43,968][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:557, parentControl.Size.Height:327
+ERROR [11/22 18:02:49,564][GTF_STFM.Tran.Transaction.Login] - 지정된 테이블에서 삭제할 수 없습니다.
+System.Data.OleDb.OleDbException (0x80004005): 지정된 테이블에서 삭제할 수 없습니다.
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteNonQuery()
+   위치: GTF_LocalDB.GTF_LocalDBManager.DropTable(String strTableName) 파일 C:\SVN\GTF_JP_STFM\GTF_LocalDB\GTF_LocalDBManager.cs:줄 787
+   위치: GTF_STFM.Tran.Transaction.Login(String strUserId, String strPassword) 파일 C:\SVN\GTF_JP_STFM\GTF_STFM\Tran\Transaction.cs:줄 82
+INFO  [11/22 18:02:49,578][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :start
+INFO  [11/22 18:02:49,926][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - 지정된 테이블에서 삭제할 수 없습니다.

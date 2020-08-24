@@ -1,0 +1,3 @@
+ERROR [07/02 09:58:27,496][GTF_Comm.GTF_CommManager.sendHttp_Json] -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout) 파일 C:\SVN\GTF_JP_STFM\GTF_COMM\GTF_CommManager.cs:줄 58

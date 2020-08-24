@@ -1,0 +1,83 @@
+INFO  [03/31 09:56:09,297][GTF_STFM_COMM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:557, parentControl.Size.Height:327
+INFO  [03/31 09:56:18,169][GTF_STFM_COMM.Screen.Login.BTN_LOGIN_Click] - :start
+INFO  [03/31 09:56:18,216][GTF_STFM_COMM.Screen.Login.BTN_LOGIN_Click] - :merchant
+INFO  [03/31 09:56:18,294][GTF_STFM_COMM.Tran.Transaction.SearchUserInfo] - START22::20200331 095618
+INFO  [03/31 09:56:18,419][GTF_STFM_COMM.Tran.Transaction.SearchUserInfo] - END2220200331 095618
+INFO  [03/31 09:56:18,419][GTF_STFM_COMM.Screen.Login.BTN_LOGIN_Click] - :item
+INFO  [03/31 09:56:18,450][GTF_STFM_COMM.Tran.Transaction.SearchUserInfo] - START22::20200331 095618
+INFO  [03/31 09:56:18,450][GTF_STFM_COMM.Tran.Transaction.SearchUserInfo] - END2220200331 095618
+INFO  [03/31 09:56:18,450][GTF_STFM_COMM.Screen.Login.BTN_LOGIN_Click] - :taxoffice
+INFO  [03/31 09:56:18,481][GTF_STFM_COMM.Screen.Login.BTN_LOGIN_Click] - :ads
+INFO  [03/31 09:56:19,325][GTF_STFM_COMM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [03/31 09:56:19,637][GTF_STFM_COMM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1411, parentControl.Size.Height:882
+INFO  [03/31 09:56:19,731][GTF_STFM_COMM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [03/31 09:56:19,903][GTF_STFM_COMM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1411, parentControl.Size.Height:882
+INFO  [03/31 09:56:20,723][GTF_STFM_COMM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [03/31 09:56:20,848][GTF_STFM_COMM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1411, parentControl.Size.Height:882
+INFO  [03/31 09:56:20,942][GTF_STFM_COMM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [03/31 09:56:20,989][GTF_STFM_COMM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1360, parentControl.Size.Height:734
+INFO  [03/31 09:59:26,665][GTF_STFM_COMM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:557, parentControl.Size.Height:327
+INFO  [03/31 09:59:37,254][GTF_STFM_COMM.Screen.Login.BTN_LOGIN_Click] - :start
+INFO  [03/31 09:59:37,301][GTF_STFM_COMM.Screen.Login.BTN_LOGIN_Click] - :merchant
+INFO  [03/31 09:59:37,379][GTF_STFM_COMM.Tran.Transaction.SearchUserInfo] - START22::20200331 095937
+INFO  [03/31 09:59:37,504][GTF_STFM_COMM.Tran.Transaction.SearchUserInfo] - END2220200331 095937
+INFO  [03/31 09:59:37,504][GTF_STFM_COMM.Screen.Login.BTN_LOGIN_Click] - :item
+INFO  [03/31 09:59:37,520][GTF_STFM_COMM.Tran.Transaction.SearchUserInfo] - START22::20200331 095937
+INFO  [03/31 09:59:37,535][GTF_STFM_COMM.Tran.Transaction.SearchUserInfo] - END2220200331 095937
+INFO  [03/31 09:59:37,535][GTF_STFM_COMM.Screen.Login.BTN_LOGIN_Click] - :taxoffice
+INFO  [03/31 09:59:37,567][GTF_STFM_COMM.Screen.Login.BTN_LOGIN_Click] - :ads
+INFO  [03/31 09:59:38,332][GTF_STFM_COMM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [03/31 09:59:38,613][GTF_STFM_COMM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1411, parentControl.Size.Height:882
+INFO  [03/31 09:59:38,691][GTF_STFM_COMM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [03/31 09:59:38,863][GTF_STFM_COMM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1411, parentControl.Size.Height:882
+INFO  [03/31 09:59:39,410][GTF_STFM_COMM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [03/31 09:59:39,519][GTF_STFM_COMM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1411, parentControl.Size.Height:882
+INFO  [03/31 09:59:39,613][GTF_STFM_COMM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [03/31 09:59:39,644][GTF_STFM_COMM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1360, parentControl.Size.Height:734
+INFO  [03/31 14:26:16,353][GTF_STFM_COMM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:557, parentControl.Size.Height:327
+INFO  [03/31 14:26:37,246][GTF_STFM_COMM.Screen.Login.BTN_LOGIN_Click] - :start
+INFO  [03/31 14:26:37,314][GTF_STFM_COMM.Screen.Login.BTN_LOGIN_Click] - :merchant
+INFO  [03/31 14:26:39,096][GTF_STFM_COMM.Tran.Transaction.SearchUserInfo] - START22::20200331 022639
+INFO  [03/31 14:26:59,764][GTF_STFM_COMM.Tran.Transaction.SearchUserInfo] - END2220200331 022659
+INFO  [03/31 14:26:59,942][GTF_STFM_COMM.Tran.Transaction.SearchUserInfo] - START22::20200331 022659
+INFO  [03/31 14:27:00,161][GTF_STFM_COMM.Tran.Transaction.SearchUserInfo] - END2220200331 022700
+INFO  [03/31 14:27:00,164][GTF_STFM_COMM.Screen.Login.BTN_LOGIN_Click] - :item
+INFO  [03/31 14:27:00,199][GTF_STFM_COMM.Tran.Transaction.SearchUserInfo] - START22::20200331 022700
+INFO  [03/31 14:27:00,206][GTF_STFM_COMM.Tran.Transaction.SearchUserInfo] - END2220200331 022700
+INFO  [03/31 14:27:00,209][GTF_STFM_COMM.Screen.Login.BTN_LOGIN_Click] - :taxoffice
+INFO  [03/31 14:27:00,251][GTF_STFM_COMM.Screen.Login.BTN_LOGIN_Click] - :ads
+INFO  [03/31 14:27:01,750][GTF_STFM_COMM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [03/31 14:27:02,395][GTF_STFM_COMM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1411, parentControl.Size.Height:882
+INFO  [03/31 14:27:02,602][GTF_STFM_COMM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [03/31 14:27:02,948][GTF_STFM_COMM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1411, parentControl.Size.Height:882
+INFO  [03/31 14:27:03,897][GTF_STFM_COMM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [03/31 14:27:04,106][GTF_STFM_COMM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1411, parentControl.Size.Height:882
+INFO  [03/31 14:27:04,317][GTF_STFM_COMM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [03/31 14:27:04,404][GTF_STFM_COMM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1360, parentControl.Size.Height:734
+INFO  [03/31 14:27:12,413][GTF_STFM_COMM.Tran.Transaction.SearchUserInfo] - START22::20200331 022712
+INFO  [03/31 14:27:21,233][GTF_STFM_COMM.Tran.Transaction.SearchUserInfo] - END2220200331 022721
+INFO  [03/31 15:02:05,109][GTF_STFM_COMM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:557, parentControl.Size.Height:327
+INFO  [03/31 15:02:14,534][GTF_STFM_COMM.Screen.Login.BTN_LOGIN_Click] - :start
+INFO  [03/31 15:02:14,595][GTF_STFM_COMM.Screen.Login.BTN_LOGIN_Click] - :merchant
+INFO  [03/31 15:02:14,664][GTF_STFM_COMM.Tran.Transaction.SearchUserInfo] - START22::20200331 030214
+INFO  [03/31 15:02:14,809][GTF_STFM_COMM.Tran.Transaction.SearchUserInfo] - END2220200331 030214
+INFO  [03/31 15:02:14,820][GTF_STFM_COMM.Screen.Login.BTN_LOGIN_Click] - :item
+INFO  [03/31 15:02:14,838][GTF_STFM_COMM.Tran.Transaction.SearchUserInfo] - START22::20200331 030214
+INFO  [03/31 15:02:14,844][GTF_STFM_COMM.Tran.Transaction.SearchUserInfo] - END2220200331 030214
+INFO  [03/31 15:02:14,845][GTF_STFM_COMM.Screen.Login.BTN_LOGIN_Click] - :taxoffice
+INFO  [03/31 15:02:14,867][GTF_STFM_COMM.Screen.Login.BTN_LOGIN_Click] - :ads
+INFO  [03/31 15:02:15,709][GTF_STFM_COMM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [03/31 15:02:16,069][GTF_STFM_COMM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1411, parentControl.Size.Height:882
+INFO  [03/31 15:02:16,180][GTF_STFM_COMM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [03/31 15:02:16,437][GTF_STFM_COMM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1411, parentControl.Size.Height:882
+INFO  [03/31 15:02:17,193][GTF_STFM_COMM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [03/31 15:02:17,342][GTF_STFM_COMM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1411, parentControl.Size.Height:882
+INFO  [03/31 15:02:17,462][GTF_STFM_COMM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [03/31 15:02:17,520][GTF_STFM_COMM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1360, parentControl.Size.Height:734
+INFO  [03/31 15:02:26,025][GTF_STFM_COMM.Tran.Transaction.SearchUserInfo] - START22::20200331 030226
+INFO  [03/31 15:02:29,111][GTF_STFM_COMM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:749, parentControl.Size.Height:350
+INFO  [03/31 15:02:40,139][GTF_STFM_COMM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:749, parentControl.Size.Height:350
+INFO  [03/31 15:02:44,091][GTF_STFM_COMM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1100, parentControl.Size.Height:600
+INFO  [03/31 15:03:25,769][GTF_STFM_COMM.Tran.Transaction.SearchUserInfo] - END2220200331 030325
+INFO  [03/31 15:03:27,647][GTF_STFM_COMM.Tran.Transaction.SearchUserInfo] - START22::20200331 030327
+INFO  [03/31 15:03:36,297][GTF_STFM_COMM.Tran.Transaction.SearchUserInfo] - END2220200331 030336

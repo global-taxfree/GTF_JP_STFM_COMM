@@ -1,0 +1,441 @@
+INFO  [04/19 09:14:46,002][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:557, parentControl.Size.Height:327
+INFO  [04/19 09:14:49,375][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :start
+INFO  [04/19 09:14:50,281][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :merchant
+INFO  [04/19 09:14:50,617][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :item
+INFO  [04/19 09:14:50,951][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :taxoffice
+INFO  [04/19 09:14:50,988][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :ads
+INFO  [04/19 09:14:51,412][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [04/19 09:14:51,618][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [04/19 09:14:51,680][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [04/19 09:14:51,746][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [04/19 09:14:51,852][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [04/19 09:14:51,867][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1360, parentControl.Size.Height:728
+ERROR [04/19 09:14:54,311][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+INFO  [04/19 09:14:58,951][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1100, parentControl.Size.Height:600
+ERROR [04/19 09:15:01,954][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:15:05,210][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:15:08,466][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+INFO  [04/19 09:15:10,101][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1100, parentControl.Size.Height:600
+ERROR [04/19 09:15:11,721][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:15:14,979][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:15:18,244][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:15:21,500][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:15:24,757][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:15:28,227][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:15:31,484][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:15:34,741][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:15:38,003][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:15:41,262][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:15:41,933][GTF_LocalDB.GTF_LocalDBManager.SelectTable] -    위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   위치: GTF_LocalDB.GTF_LocalDBManager.SelectTable(String strTableName, JObject jsonWhere) 파일 C:\SVN\GTF_JP_STFM\GTF_LocalDB\GTF_LocalDBManager.cs:줄 574
+ERROR [04/19 09:15:44,525][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:15:47,850][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:15:51,108][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:15:54,365][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:15:57,621][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:16:00,878][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+INFO  [04/19 09:16:02,830][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1100, parentControl.Size.Height:600
+ERROR [04/19 09:16:05,468][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+INFO  [04/19 09:16:06,002][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1100, parentControl.Size.Height:600
+ERROR [04/19 09:16:08,726][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:16:11,982][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:16:15,239][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:16:18,496][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+INFO  [04/19 09:16:19,099][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1100, parentControl.Size.Height:600
+ERROR [04/19 09:16:21,753][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:16:25,010][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+INFO  [04/19 09:16:27,156][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1100, parentControl.Size.Height:600
+ERROR [04/19 09:16:28,267][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:16:31,524][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:16:34,781][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+INFO  [04/19 09:16:35,589][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1100, parentControl.Size.Height:600
+ERROR [04/19 09:16:38,037][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+INFO  [04/19 09:16:39,769][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1100, parentControl.Size.Height:600
+ERROR [04/19 09:16:41,293][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:16:44,550][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:16:47,807][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:16:51,063][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:16:54,319][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:16:54,851][GTF_LocalDB.GTF_LocalDBManager.SelectTable] -    위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   위치: GTF_LocalDB.GTF_LocalDBManager.SelectTable(String strTableName, JObject jsonWhere) 파일 C:\SVN\GTF_JP_STFM\GTF_LocalDB\GTF_LocalDBManager.cs:줄 574
+ERROR [04/19 09:16:54,877][GTF_LocalDB.GTF_LocalDBManager.SelectTable] -    위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   위치: GTF_LocalDB.GTF_LocalDBManager.SelectTable(String strTableName, JObject jsonWhere) 파일 C:\SVN\GTF_JP_STFM\GTF_LocalDB\GTF_LocalDBManager.cs:줄 574
+ERROR [04/19 09:16:55,277][GTF_LocalDB.GTF_LocalDBManager.SelectTable] -    위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   위치: GTF_LocalDB.GTF_LocalDBManager.SelectTable(String strTableName, JObject jsonWhere) 파일 C:\SVN\GTF_JP_STFM\GTF_LocalDB\GTF_LocalDBManager.cs:줄 574
+ERROR [04/19 09:16:57,575][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:17:00,833][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:17:04,196][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:17:07,453][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:17:10,709][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:17:13,966][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:17:17,222][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:17:20,478][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:17:23,734][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:17:26,990][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:17:30,246][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:17:33,502][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:17:36,759][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:17:40,015][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:17:43,272][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:17:46,528][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:17:49,784][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:17:53,042][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:17:56,299][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:17:59,554][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:18:02,810][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:18:06,066][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+INFO  [04/19 09:18:08,441][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1100, parentControl.Size.Height:630
+DEBUG [04/19 09:18:08,701][GTF_STFM.Screen.SlipDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 1
+DEBUG [04/19 09:18:08,708][GTF_STFM.Screen.SlipDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 2
+DEBUG [04/19 09:18:09,048][GTF_STFM.Screen.SlipDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 3
+ERROR [04/19 09:18:09,322][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:18:12,579][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:18:15,835][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:18:19,092][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:18:22,348][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:18:25,605][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:18:28,862][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:18:32,118][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:18:35,375][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:18:38,631][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:18:41,887][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:18:45,145][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:18:48,401][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:18:51,657][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:18:54,913][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:18:58,168][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:19:01,428][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:19:04,686][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:19:07,944][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:19:11,199][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:19:14,457][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:19:17,713][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:19:20,970][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:19:24,226][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:19:27,484][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:19:30,740][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:19:33,996][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:19:37,256][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:19:40,530][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:19:43,788][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:19:47,044][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:19:50,300][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:19:53,557][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:19:56,816][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:20:00,072][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:20:03,328][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:20:06,587][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:20:09,847][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:20:13,103][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:20:16,365][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:20:19,622][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:20:22,882][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:20:26,138][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:20:29,395][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:20:32,653][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:20:35,909][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:20:39,167][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:20:42,423][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:20:45,680][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:20:48,937][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:20:52,194][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:20:55,451][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:20:58,707][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:21:01,963][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:21:05,221][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:21:08,478][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:21:11,734][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:21:14,991][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:21:18,246][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:21:21,504][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:21:24,762][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:21:28,018][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:21:31,274][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:21:34,530][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:21:37,786][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:21:41,044][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:21:44,299][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:21:47,555][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:21:50,812][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:21:54,068][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:21:57,325][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:22:00,581][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:22:03,838][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:22:07,094][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:22:10,352][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:22:13,608][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:22:16,866][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:22:20,122][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:22:23,378][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:22:26,634][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:22:29,891][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:22:33,147][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:22:36,403][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:22:39,659][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:22:42,915][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:22:46,171][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:22:49,428][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:22:52,688][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:22:55,944][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:22:59,201][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:23:02,457][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:23:05,713][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:23:08,970][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:23:12,226][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:23:15,482][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:23:18,738][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:23:22,000][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:23:25,258][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:23:28,515][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:23:31,772][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:23:35,028][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:23:38,285][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:23:41,541][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:23:44,798][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:23:48,062][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:23:51,319][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:23:54,575][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:23:57,831][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:24:01,089][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:24:04,345][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:24:07,600][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:24:10,857][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:24:14,113][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:24:17,370][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:24:20,627][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:24:23,887][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:24:27,156][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:24:30,424][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:24:33,873][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:24:37,300][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:24:41,293][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:24:44,739][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:24:48,130][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:24:51,421][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:24:55,080][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:24:58,396][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:25:01,674][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:25:05,393][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:25:08,749][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:25:12,007][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:25:15,263][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:25:18,522][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:25:21,780][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:25:25,053][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:25:28,312][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:25:31,573][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:25:34,832][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:25:38,093][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:25:41,349][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:25:44,606][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:25:47,863][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:25:51,119][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:25:54,376][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:25:57,632][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:26:00,887][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:26:04,166][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:26:07,464][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:26:10,744][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:26:14,000][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:26:17,256][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:26:20,546][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:26:23,802][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:26:27,057][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:26:30,313][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:26:33,569][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:26:36,826][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:26:40,082][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:26:43,339][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:26:46,600][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:26:49,946][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:26:53,205][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:26:56,462][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:26:59,721][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:27:02,992][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:27:06,248][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:27:09,505][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:27:12,763][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:27:16,019][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:27:19,276][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:27:22,532][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:27:25,789][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:27:29,046][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:27:32,301][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:27:35,558][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:27:38,814][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:27:42,070][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:27:45,331][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:27:48,590][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:27:51,847][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:27:55,104][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:27:58,361][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:28:01,617][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:28:04,988][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:28:09,092][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:28:12,372][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:28:15,628][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:28:18,900][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:28:22,157][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:28:25,413][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:28:28,669][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:28:31,926][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:28:35,184][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:28:38,439][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:28:41,697][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:28:44,953][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:28:48,211][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:28:51,467][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:28:54,726][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:28:57,984][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:29:01,241][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:29:04,497][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:29:07,753][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:29:11,008][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:29:14,266][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:29:17,522][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:29:20,777][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:29:24,034][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:29:27,291][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:29:30,547][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:29:33,804][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:29:37,060][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:29:40,316][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:29:43,572][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:29:46,829][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:29:50,087][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:29:53,343][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:29:56,600][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:29:59,858][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:30:03,114][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:30:06,372][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:30:09,629][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:30:12,885][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:30:16,147][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 09:30:19,403][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+INFO  [04/19 10:30:42,176][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:557, parentControl.Size.Height:327
+INFO  [04/19 10:30:46,613][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :start
+INFO  [04/19 10:30:47,829][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :merchant
+INFO  [04/19 10:30:48,186][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :item
+INFO  [04/19 10:30:48,537][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :taxoffice
+INFO  [04/19 10:30:48,577][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :ads
+INFO  [04/19 10:30:49,108][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [04/19 10:30:49,322][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [04/19 10:30:49,376][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [04/19 10:30:49,417][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [04/19 10:30:49,676][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [04/19 10:30:49,699][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1360, parentControl.Size.Height:728
+ERROR [04/19 10:30:51,943][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 10:30:55,208][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+INFO  [04/19 10:30:58,293][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1100, parentControl.Size.Height:600
+ERROR [04/19 10:31:00,540][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 10:31:03,796][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 10:31:07,054][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 10:31:10,311][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 10:31:13,660][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 10:31:16,918][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 10:31:20,640][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 10:31:24,314][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 10:31:27,570][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 10:31:30,829][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 10:31:34,085][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 10:31:37,342][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 10:31:40,599][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 10:31:43,857][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 10:31:47,112][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 10:31:50,367][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 10:31:53,623][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 10:31:56,881][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 10:32:00,138][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 10:32:03,394][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 10:32:06,649][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 10:32:09,905][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 10:32:13,161][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 10:32:16,418][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 10:32:19,673][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 10:32:22,928][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 10:32:26,191][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 10:32:29,449][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 10:32:32,711][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 10:32:35,969][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 10:32:39,225][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 10:32:42,480][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 10:32:45,736][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 10:32:48,991][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 10:32:52,247][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 10:32:55,503][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 10:32:58,761][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 10:33:02,018][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 10:33:05,276][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 10:33:08,536][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 10:33:11,791][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 10:33:15,047][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 10:33:18,303][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 10:33:21,560][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+INFO  [04/19 14:23:06,809][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:557, parentControl.Size.Height:327
+ERROR [04/19 14:23:10,799][GTF_STFM.Tran.Transaction.Login] - 지정된 테이블에서 삭제할 수 없습니다.
+System.Data.OleDb.OleDbException (0x80004005): 지정된 테이블에서 삭제할 수 없습니다.
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteNonQuery()
+   위치: GTF_LocalDB.GTF_LocalDBManager.DropTable(String strTableName) 파일 C:\SVN\GTF_JP_STFM\GTF_LocalDB\GTF_LocalDBManager.cs:줄 810
+   위치: GTF_STFM.Tran.Transaction.Login(String strUserId, String strPassword) 파일 C:\SVN\GTF_JP_STFM\GTF_STFM\Tran\Transaction.cs:줄 85
+INFO  [04/19 14:23:10,828][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :start
+INFO  [04/19 14:23:11,340][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - 지정된 테이블에서 삭제할 수 없습니다.
+INFO  [04/19 14:23:44,909][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:557, parentControl.Size.Height:327
+INFO  [04/19 14:23:47,446][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :start
+INFO  [04/19 14:23:48,582][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :merchant
+INFO  [04/19 14:23:48,914][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :item
+INFO  [04/19 14:23:49,326][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :taxoffice
+INFO  [04/19 14:23:49,360][GTF_STFM.Screen.Login.BTN_LOGIN_Click] - :ads
+INFO  [04/19 14:23:49,799][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [04/19 14:23:49,992][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [04/19 14:23:50,048][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [04/19 14:23:50,103][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [04/19 14:23:50,304][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1235, parentControl.Size.Height:706
+INFO  [04/19 14:23:50,320][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1360, parentControl.Size.Height:728
+ERROR [04/19 14:23:52,688][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+INFO  [04/19 14:23:56,359][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1100, parentControl.Size.Height:600
+ERROR [04/19 14:23:59,374][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+INFO  [04/19 14:23:59,771][GTF_STFM.Util.ControlManager..ctor] - ControlManager >> parentControl.Size.Width:1100, parentControl.Size.Height:600
+ERROR [04/19 14:24:02,632][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 14:24:05,893][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 14:24:09,149][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 14:24:12,435][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 14:24:15,692][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 14:24:18,948][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 14:24:22,204][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 14:24:25,459][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 14:24:28,716][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 14:24:31,973][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 14:24:33,568][GTF_LocalDB.GTF_LocalDBManager.SelectTable] -    위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   위치: System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   위치: GTF_LocalDB.GTF_LocalDBManager.SelectTable(String strTableName, JObject jsonWhere) 파일 C:\SVN\GTF_JP_STFM\GTF_LocalDB\GTF_LocalDBManager.cs:줄 574
+ERROR [04/19 14:24:35,230][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004
+ERROR [04/19 14:24:38,862][GTF_Comm.GTF_CommManager.sendPing] - Ping Error >> localhost:7004

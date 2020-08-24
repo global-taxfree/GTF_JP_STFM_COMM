@@ -1,0 +1,71 @@
+DEBUG [12/06 10:19:58,228][GTF_STFM_COMM.Screen.TrxnDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 1
+DEBUG [12/06 10:19:58,266][GTF_STFM_COMM.Screen.TrxnDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 2
+DEBUG [12/06 10:19:58,663][GTF_STFM_COMM.Screen.TrxnDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 3
+DEBUG [12/06 10:22:09,288][GTF_STFM_COMM.Screen.TrxnDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 1
+DEBUG [12/06 10:22:09,324][GTF_STFM_COMM.Screen.TrxnDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 2
+DEBUG [12/06 10:22:09,669][GTF_STFM_COMM.Screen.TrxnDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 3
+DEBUG [12/06 10:40:16,581][GTF_STFM_COMM.Screen.TrxnDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 1
+DEBUG [12/06 10:40:16,687][GTF_STFM_COMM.Screen.TrxnDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 2
+DEBUG [12/06 10:40:17,061][GTF_STFM_COMM.Screen.TrxnDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 3
+ERROR [12/06 10:40:30,674][GTF_STFM_COMM.Screen.TrxnPanel.GRD_SLIP_CellDoubleClick] -    위치: GTF_STFM_COMM.Screen.TrxnDetailInfo.BTN_PRINT_Click(Object sender, EventArgs e) 파일 C:\SVN\GTF_JP_STFM_COMM\GTF_STFM_COMM\Screen\TrxnDetailInfo.cs:줄 586
+   위치: System.Windows.Forms.Control.OnClick(EventArgs e)
+   위치: System.Windows.Forms.Button.OnClick(EventArgs e)
+   위치: System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   위치: MetroFramework.Controls.MetroButton.OnMouseUp(MouseEventArgs e)
+   위치: System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   위치: System.Windows.Forms.Control.WndProc(Message& m)
+   위치: System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   위치: System.Windows.Forms.Button.WndProc(Message& m)
+   위치: System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   위치: System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   위치: System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   위치: System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   위치: System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   위치: System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   위치: System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   위치: System.Windows.Forms.Application.RunDialog(Form form)
+   위치: System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+   위치: GTF_STFM_COMM.Screen.TrxnPanel.GRD_SLIP_CellDoubleClick(Object sender, DataGridViewCellEventArgs e) 파일 C:\SVN\GTF_JP_STFM_COMM\GTF_STFM_COMM\Screen\TrxnPanel.cs:줄 459
+DEBUG [12/06 10:41:10,039][GTF_STFM_COMM.Screen.TrxnDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 1
+DEBUG [12/06 10:41:10,078][GTF_STFM_COMM.Screen.TrxnDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 2
+DEBUG [12/06 10:41:10,455][GTF_STFM_COMM.Screen.TrxnDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 3
+ERROR [12/06 10:44:24,227][GTF_STFM_COMM.Screen.TrxnPanel.GRD_SLIP_CellDoubleClick] -    위치: GTF_STFM_COMM.Screen.TrxnDetailInfo.BTN_PRINT_Click(Object sender, EventArgs e) 파일 C:\SVN\GTF_JP_STFM_COMM\GTF_STFM_COMM\Screen\TrxnDetailInfo.cs:줄 586
+   위치: System.Windows.Forms.Control.OnClick(EventArgs e)
+   위치: System.Windows.Forms.Button.OnClick(EventArgs e)
+   위치: System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   위치: MetroFramework.Controls.MetroButton.OnMouseUp(MouseEventArgs e)
+   위치: System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   위치: System.Windows.Forms.Control.WndProc(Message& m)
+   위치: System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   위치: System.Windows.Forms.Button.WndProc(Message& m)
+   위치: System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   위치: System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   위치: System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   위치: System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   위치: System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   위치: System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   위치: System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   위치: System.Windows.Forms.Application.RunDialog(Form form)
+   위치: System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+   위치: GTF_STFM_COMM.Screen.TrxnPanel.GRD_SLIP_CellDoubleClick(Object sender, DataGridViewCellEventArgs e) 파일 C:\SVN\GTF_JP_STFM_COMM\GTF_STFM_COMM\Screen\TrxnPanel.cs:줄 459
+DEBUG [12/06 10:44:29,105][GTF_STFM_COMM.Screen.TrxnDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 1
+DEBUG [12/06 10:44:31,765][GTF_STFM_COMM.Screen.TrxnDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 2
+DEBUG [12/06 10:44:32,172][GTF_STFM_COMM.Screen.TrxnDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 3
+DEBUG [12/06 10:54:08,896][GTF_STFM_COMM.Screen.TrxnDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 1
+DEBUG [12/06 10:54:09,018][GTF_STFM_COMM.Screen.TrxnDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 2
+DEBUG [12/06 10:54:09,465][GTF_STFM_COMM.Screen.TrxnDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 3
+DEBUG [12/06 10:55:42,950][GTF_STFM_COMM.Screen.TrxnDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 1
+DEBUG [12/06 10:55:42,989][GTF_STFM_COMM.Screen.TrxnDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 2
+DEBUG [12/06 10:55:43,376][GTF_STFM_COMM.Screen.TrxnDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 3
+DEBUG [12/06 16:18:53,308][GTF_STFM_COMM.Screen.TrxnDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 1
+DEBUG [12/06 16:18:53,355][GTF_STFM_COMM.Screen.TrxnDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 2
+DEBUG [12/06 16:18:53,683][GTF_STFM_COMM.Screen.TrxnDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 3
+DEBUG [12/06 16:20:17,832][GTF_STFM_COMM.Screen.TrxnDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 1
+DEBUG [12/06 16:20:17,863][GTF_STFM_COMM.Screen.TrxnDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 2
+DEBUG [12/06 16:20:18,223][GTF_STFM_COMM.Screen.TrxnDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 3
+DEBUG [12/06 16:22:28,972][GTF_STFM_COMM.Screen.TrxnDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 1
+DEBUG [12/06 16:22:29,020][GTF_STFM_COMM.Screen.TrxnDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 2
+DEBUG [12/06 16:22:29,348][GTF_STFM_COMM.Screen.TrxnDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 3
+DEBUG [12/06 16:24:36,904][GTF_STFM_COMM.Screen.TrxnDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 1
+DEBUG [12/06 16:24:36,936][GTF_STFM_COMM.Screen.TrxnDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 2
+DEBUG [12/06 16:24:37,279][GTF_STFM_COMM.Screen.TrxnDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 3

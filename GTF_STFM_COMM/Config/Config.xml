@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<config>
+  <SERVER_IP>121.78.115.70</SERVER_IP>
+  <SERVER_PORT>80</SERVER_PORT>
+  <DEFAULT_LANG>JA</DEFAULT_LANG>
+  <!-- <SERVER_URL>http://jp2admin.gtfetrs.com</SERVER_URL> -->
+   <SERVER_URL>http://localhost:7004</SERVER_URL>
+  <DEV>Y</DEV>
+  <LOGIN_ID></LOGIN_ID>
+  <LOGIN_PW></LOGIN_PW>
+</config>

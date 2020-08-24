@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<servers>
+<description>Server Info</description>	
+<server ssn="001">
+	<host>121.78.129.167</host>
+	<port>2200</port>
+	<user>GTF</user>
+	<passwd>LK5v7UAEToIq0hi2GS3N7g==</passwd>
+	<path>/home/GTF/versionMng/uptDir</path>		
+	<client>TEST</client>
+</server>
+</servers>

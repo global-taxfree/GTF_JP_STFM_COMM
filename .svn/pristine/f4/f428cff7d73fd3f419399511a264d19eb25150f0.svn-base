@@ -1,0 +1,68 @@
+DEBUG [05/09 15:12:07,174][GTF_STFM.Screen.TrxnDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 1
+DEBUG [05/09 15:12:07,237][GTF_STFM.Screen.TrxnDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 2
+DEBUG [05/09 15:12:07,652][GTF_STFM.Screen.TrxnDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 3
+DEBUG [05/09 15:13:02,859][GTF_STFM.Screen.TrxnDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 1
+DEBUG [05/09 15:13:02,890][GTF_STFM.Screen.TrxnDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 2
+DEBUG [05/09 15:13:03,254][GTF_STFM.Screen.TrxnDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 3
+DEBUG [05/09 15:17:41,735][GTF_STFM.Screen.TrxnDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 1
+DEBUG [05/09 15:17:41,776][GTF_STFM.Screen.TrxnDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 2
+DEBUG [05/09 15:17:42,062][GTF_STFM.Screen.TrxnDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 3
+DEBUG [05/09 16:36:03,563][GTF_STFM.Screen.TrxnDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 1
+DEBUG [05/09 16:36:03,635][GTF_STFM.Screen.TrxnDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 2
+DEBUG [05/09 16:36:03,890][GTF_STFM.Screen.TrxnDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 3
+DEBUG [05/09 16:48:01,245][GTF_STFM.Screen.TrxnDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 1
+DEBUG [05/09 16:48:01,298][GTF_STFM.Screen.TrxnDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 2
+DEBUG [05/09 16:48:01,616][GTF_STFM.Screen.TrxnDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 3
+DEBUG [05/09 17:57:29,165][GTF_STFM.Screen.TrxnDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 1
+DEBUG [05/09 17:57:29,273][GTF_STFM.Screen.TrxnDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 2
+DEBUG [05/09 17:57:29,575][GTF_STFM.Screen.TrxnDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 3
+ERROR [05/09 17:57:31,844][GTF_STFM.Screen.TrxnPanel.GRD_SLIP_CellDoubleClick] -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json)
+   위치: GTF_STFM.Screen.TrxnDetailInfo.BTN_PRINT_Click(Object sender, EventArgs e) 파일 C:\SVN\GTF_JP_STFM\GTF_STFM\Screen\TrxnDetailInfo.cs:줄 267
+   위치: System.Windows.Forms.Control.OnClick(EventArgs e)
+   위치: System.Windows.Forms.Button.OnClick(EventArgs e)
+   위치: System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   위치: MetroFramework.Controls.MetroButton.OnMouseUp(MouseEventArgs e)
+   위치: System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   위치: System.Windows.Forms.Control.WndProc(Message& m)
+   위치: System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   위치: System.Windows.Forms.Button.WndProc(Message& m)
+   위치: System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   위치: System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   위치: System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   위치: System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   위치: System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   위치: System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   위치: System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   위치: System.Windows.Forms.Application.RunDialog(Form form)
+   위치: System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+   위치: GTF_STFM.Screen.TrxnPanel.GRD_SLIP_CellDoubleClick(Object sender, DataGridViewCellEventArgs e) 파일 C:\SVN\GTF_JP_STFM\GTF_STFM\Screen\TrxnPanel.cs:줄 445
+DEBUG [05/09 17:58:21,558][GTF_STFM.Screen.TrxnDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 1
+DEBUG [05/09 17:58:21,599][GTF_STFM.Screen.TrxnDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 2
+DEBUG [05/09 17:58:21,861][GTF_STFM.Screen.TrxnDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 3
+ERROR [05/09 17:59:51,451][GTF_STFM.Screen.TrxnPanel.GRD_SLIP_CellDoubleClick] -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json)
+   위치: GTF_STFM.Screen.TrxnDetailInfo.BTN_PRINT_Click(Object sender, EventArgs e) 파일 C:\SVN\GTF_JP_STFM\GTF_STFM\Screen\TrxnDetailInfo.cs:줄 267
+   위치: System.Windows.Forms.Control.OnClick(EventArgs e)
+   위치: System.Windows.Forms.Button.OnClick(EventArgs e)
+   위치: System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   위치: MetroFramework.Controls.MetroButton.OnMouseUp(MouseEventArgs e)
+   위치: System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   위치: System.Windows.Forms.Control.WndProc(Message& m)
+   위치: System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   위치: System.Windows.Forms.Button.WndProc(Message& m)
+   위치: System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   위치: System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   위치: System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   위치: System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   위치: System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   위치: System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   위치: System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   위치: System.Windows.Forms.Application.RunDialog(Form form)
+   위치: System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+   위치: GTF_STFM.Screen.TrxnPanel.GRD_SLIP_CellDoubleClick(Object sender, DataGridViewCellEventArgs e) 파일 C:\SVN\GTF_JP_STFM\GTF_STFM\Screen\TrxnPanel.cs:줄 445
+DEBUG [05/09 18:07:33,835][GTF_STFM.Screen.TrxnDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 1
+DEBUG [05/09 18:07:33,895][GTF_STFM.Screen.TrxnDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 2
+DEBUG [05/09 18:07:34,171][GTF_STFM.Screen.TrxnDetailInfo.SlipDetailInfo_Load] - SlipDetailInfo_Load 3
